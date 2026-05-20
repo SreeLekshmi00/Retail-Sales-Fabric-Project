@@ -1,0 +1,31 @@
+store_id,store_name,city,region
+LON001,London Central,London,South
+LON002,London East,London,South
+LON003,London West,London,South
+MAN001,Manchester Store,Manchester,North
+MAN002,Manchester Trafford,Manchester,North
+BIR001,Birmingham Store,Birmingham,Midlands
+BIR002,Birmingham City,Birmingham,Midlands
+LEE001,Leeds Central,Leeds,North
+GLA001,Glasgow Store,Glasgow,Scotland
+EDI001,Edinburgh Store,Edinburgh,Scotland
+BRI001,Bristol Central,Bristol,South West
+LIV001,Liverpool ONE,Liverpool,North
+SHE001,Sheffield Store,Sheffield,North
+NOT001,Nottingham Central,Nottingham,Midlands
+CAR001,Cardiff Store,Cardiff,Wales
+NYC001,New York Fifth Ave,New York,North East
+NYC002,New York Brooklyn,New York,North East
+LAX001,Los Angeles Central,Los Angeles,West
+CHI001,Chicago Michigan Ave,Chicago,Midwest
+HOU001,Houston Galleria,Houston,South
+BER001,Berlin Mitte,Berlin,East
+MUN001,Munich Central,Munich,South
+HAM001,Hamburg Store,Hamburg,North
+MUM001,Mumbai Colaba,Mumbai,West
+DEL001,Delhi Connaught Place,Delhi,North
+BAN001,Bangalore MG Road,Bangalore,South
+SYD001,Sydney CBD,Sydney,NSW
+MEL001,Melbourne Collins St,Melbourne,VIC
+DXB001,Dubai Mall,Dubai,Dubai
+AUH001,Abu Dhabi Central,Abu Dhabi,Abu Dhabi

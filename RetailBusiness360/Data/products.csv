@@ -1,0 +1,2001 @@
+product_id,product_name,category,brand,unit_price,stock_quantity
+P00001,Philips Although Home-194,Home & Kitchen,Philips,148.31,2604
+P00002,Reebok Pattern Beau-287,Beauty,Reebok,386.32,765
+P00003,Samsung Republican Book-792,Books,Samsung,1113.28,1750
+P00004,Zara Indeed Groc-907,Groceries,Zara,95.89,4298
+P00005,H&M By Toys-661,Toys,H&M,44.98,4192
+P00006,Penguin Answer Spor-639,Sports,Penguin,1078.81,3024
+P00007,Apple Suddenly Book-760,Books,Apple,1421.32,1838
+P00008,L'Oreal Course Toys-428,Toys,L'Oreal,398.04,4602
+P00009,Penguin Sort Groc-883,Groceries,Penguin,921.32,4705
+P00010,L'Oreal Daughter Groc-236,Groceries,L'Oreal,527.4,2395
+P00011,Dyson Low Home-694,Home & Kitchen,Dyson,973.72,473
+P00012,Adidas Course Beau-493,Beauty,Adidas,797.63,3911
+P00013,Lego Lay Book-627,Books,Lego,387.44,4052
+P00014,Samsung Focus Book-926,Books,Samsung,1040.7,3711
+P00015,Philips Door Toys-921,Toys,Philips,724.4,1485
+P00016,Adidas Represent Book-158,Books,Adidas,1140.25,876
+P00017,Apple Consumer Book-105,Books,Apple,817.27,3310
+P00018,Apple Art Groc-790,Groceries,Apple,1167.69,4877
+P00019,Penguin Himself Beau-210,Beauty,Penguin,165.73,4935
+P00020,Dyson Mr Spor-976,Sports,Dyson,242.32,2321
+P00021,Nestle Success Toys-172,Toys,Nestle,970.32,4609
+P00022,Nestle Impact Home-444,Home & Kitchen,Nestle,260.75,3597
+P00023,Samsung Out Clot-998,Clothing,Samsung,17.61,1203
+P00024,H&M Others Book-727,Books,H&M,962.73,1560
+P00025,Nike Leg Book-920,Books,Nike,1150.72,3980
+P00026,Nestle Cold Book-156,Books,Nestle,552.51,1483
+P00027,Zara War Elec-835,Electronics,Zara,372.29,625
+P00028,Dyson Example Spor-746,Sports,Dyson,35.09,2363
+P00029,Reebok Which Beau-517,Beauty,Reebok,414.01,887
+P00030,IKEA Him Groc-827,Groceries,IKEA,848.75,2367
+P00031,Dyson Pressure Clot-158,Clothing,Dyson,320.92,4039
+P00032,Apple Manager Book-114,Books,Apple,584.46,1819
+P00033,Sony Body Home-847,Home & Kitchen,Sony,1159.16,4295
+P00034,Samsung Red Beau-172,Beauty,Samsung,1440.61,3736
+P00035,H&M Three Clot-294,Clothing,H&M,1327.54,2035
+P00036,Samsung Soldier Groc-733,Groceries,Samsung,692.55,4333
+P00037,Lego Race Beau-953,Beauty,Lego,691.0,467
+P00038,Nestle Himself Groc-918,Groceries,Nestle,1048.56,3897
+P00039,Dyson High Spor-208,Sports,Dyson,1462.17,4678
+P00040,Nestle Who Home-453,Home & Kitchen,Nestle,916.37,4016
+P00041,Lego Rest Beau-148,Beauty,Lego,131.07,132
+P00042,Dyson Life Toys-723,Toys,Dyson,1368.58,3625
+P00043,L'Oreal Prepare Groc-152,Groceries,L'Oreal,7.41,3784
+P00044,Nike Deal Elec-625,Electronics,Nike,327.03,3034
+P00045,Lego Close Toys-861,Toys,Lego,1300.48,4457
+P00046,Lego Special Elec-196,Electronics,Lego,9.82,2774
+P00047,Reebok Under Spor-564,Sports,Reebok,66.31,4092
+P00048,H&M Middle Elec-121,Electronics,H&M,154.84,1226
+P00049,IKEA Manage Home-842,Home & Kitchen,IKEA,179.48,3242
+P00050,H&M Account Spor-728,Sports,H&M,67.54,784
+P00051,Nike By Elec-952,Electronics,Nike,119.59,4473
+P00052,Sony Business Clot-487,Clothing,Sony,851.6,2200
+P00053,Samsung Responsibility Clot-901,Clothing,Samsung,576.12,3794
+P00054,Zara Government Toys-630,Toys,Zara,1351.98,530
+P00055,H&M Foot Elec-212,Electronics,H&M,426.0,2497
+P00056,Nike Resource Clot-910,Clothing,Nike,1205.89,3486
+P00057,H&M Present Spor-283,Sports,H&M,840.16,1243
+P00058,Nike Big Book-681,Books,Nike,574.79,1106
+P00059,Apple These Book-746,Books,Apple,582.28,3544
+P00060,IKEA Man Groc-211,Groceries,IKEA,99.05,3970
+P00061,H&M Require Elec-901,Electronics,H&M,238.11,2676
+P00062,H&M Money Beau-408,Beauty,H&M,1181.1,4874
+P00063,Penguin Describe Toys-434,Toys,Penguin,58.86,1286
+P00064,Philips Process Beau-856,Beauty,Philips,239.23,685
+P00065,Philips System Home-433,Home & Kitchen,Philips,1251.57,2157
+P00066,Penguin Cover Elec-812,Electronics,Penguin,702.56,2828
+P00067,Samsung Show Book-274,Books,Samsung,445.12,2063
+P00068,Lego Think Home-320,Home & Kitchen,Lego,371.43,3070
+P00069,Adidas To Home-218,Home & Kitchen,Adidas,990.89,2624
+P00070,Apple Job Beau-553,Beauty,Apple,749.11,1023
+P00071,IKEA Above Spor-102,Sports,IKEA,236.07,3281
+P00072,Sony Technology Clot-311,Clothing,Sony,925.33,1067
+P00073,Adidas Peace Elec-208,Electronics,Adidas,1168.32,3402
+P00074,Lego Language Groc-951,Groceries,Lego,1099.39,3786
+P00075,L'Oreal Movie Beau-630,Beauty,L'Oreal,1327.19,1457
+P00076,Apple Grow Groc-111,Groceries,Apple,750.99,1599
+P00077,Samsung Investment Elec-954,Electronics,Samsung,1348.23,3542
+P00078,Samsung Movie Spor-814,Sports,Samsung,870.01,3167
+P00079,Lego Old Toys-987,Toys,Lego,676.41,3579
+P00080,Zara Rise Home-487,Home & Kitchen,Zara,52.3,1283
+P00081,Dyson North Toys-419,Toys,Dyson,1267.28,4900
+P00082,Philips Trip Clot-752,Clothing,Philips,67.13,4036
+P00083,Lego Put Clot-404,Clothing,Lego,1233.49,4877
+P00084,H&M Right Book-363,Books,H&M,1481.19,2627
+P00085,Sony Oil Beau-411,Beauty,Sony,1364.37,2819
+P00086,Nestle Kitchen Groc-834,Groceries,Nestle,1420.14,2008
+P00087,Nike Somebody Groc-452,Groceries,Nike,300.28,1370
+P00088,Apple At Groc-864,Groceries,Apple,875.1,1429
+P00089,Reebok Already Groc-320,Groceries,Reebok,223.29,1421
+P00090,Reebok Without Groc-486,Groceries,Reebok,642.23,2624
+P00091,Reebok Something Beau-851,Beauty,Reebok,803.76,2371
+P00092,Nestle Need Home-981,Home & Kitchen,Nestle,461.14,4866
+P00093,Lego Gun Beau-805,Beauty,Lego,461.49,2253
+P00094,Adidas Report Elec-847,Electronics,Adidas,49.94,228
+P00095,Dyson Point Home-202,Home & Kitchen,Dyson,1275.43,1914
+P00096,Lego Matter Toys-434,Toys,Lego,1136.41,4615
+P00097,Penguin Deep Beau-306,Beauty,Penguin,833.41,4531
+P00098,Adidas Year Home-239,Home & Kitchen,Adidas,1470.42,2503
+P00099,Sony Hand Book-350,Books,Sony,331.44,3175
+P00100,Apple Month Toys-928,Toys,Apple,247.05,1085
+P00101,H&M Human Toys-473,Toys,H&M,1156.69,3019
+P00102,Zara Measure Beau-749,Beauty,Zara,227.38,43
+P00103,H&M Training Spor-816,Sports,H&M,924.04,5
+P00104,Adidas Themselves Clot-338,Clothing,Adidas,1215.16,3823
+P00105,Nike Television Toys-911,Toys,Nike,919.17,2993
+P00106,Nestle Wife Groc-108,Groceries,Nestle,153.44,2545
+P00107,Nike Then Clot-180,Clothing,Nike,537.41,4328
+P00108,Dyson Perhaps Clot-489,Clothing,Dyson,1257.39,1735
+P00109,Penguin Finally Clot-349,Clothing,Penguin,916.27,1314
+P00110,Nike Themselves Clot-466,Clothing,Nike,820.3,3317
+P00111,Samsung Difference Book-690,Books,Samsung,1164.78,3083
+P00112,Philips Same Spor-714,Sports,Philips,675.48,2984
+P00113,Penguin Whole Elec-549,Electronics,Penguin,1231.3,4960
+P00114,Nike Day Home-992,Home & Kitchen,Nike,1204.7,527
+P00115,Dyson Top Elec-718,Electronics,Dyson,837.2,757
+P00116,Samsung Item Elec-759,Electronics,Samsung,869.47,2169
+P00117,Adidas Eye Beau-115,Beauty,Adidas,58.05,3763
+P00118,Adidas Expert Groc-241,Groceries,Adidas,1126.26,3072
+P00119,Lego Use Book-679,Books,Lego,437.2,3657
+P00120,Dyson Model Toys-293,Toys,Dyson,832.64,4310
+P00121,Lego Approach Home-984,Home & Kitchen,Lego,300.51,1351
+P00122,Reebok Concern Toys-555,Toys,Reebok,628.68,1854
+P00123,Nike Idea Clot-416,Clothing,Nike,373.48,503
+P00124,Penguin Deep Groc-334,Groceries,Penguin,1290.01,4120
+P00125,Nike Citizen Groc-382,Groceries,Nike,167.61,1523
+P00126,Sony Might Toys-398,Toys,Sony,205.36,1808
+P00127,Reebok Individual Elec-485,Electronics,Reebok,1007.03,2107
+P00128,Philips Those Toys-214,Toys,Philips,425.52,1628
+P00129,H&M Mind Spor-845,Sports,H&M,761.85,518
+P00130,Nestle Really Toys-407,Toys,Nestle,1064.46,1100
+P00131,Philips Language Book-418,Books,Philips,1308.74,2914
+P00132,Dyson Value Beau-585,Beauty,Dyson,393.04,4568
+P00133,Nestle Suffer Beau-998,Beauty,Nestle,507.38,4163
+P00134,Reebok Southern Groc-943,Groceries,Reebok,247.08,2500
+P00135,H&M Two Book-721,Books,H&M,690.07,4619
+P00136,IKEA Have Home-916,Home & Kitchen,IKEA,435.15,2824
+P00137,Samsung Phone Beau-845,Beauty,Samsung,978.58,2290
+P00138,Nike Indeed Home-121,Home & Kitchen,Nike,19.08,2459
+P00139,Nike System Toys-212,Toys,Nike,1142.79,3876
+P00140,Apple Try Groc-429,Groceries,Apple,1201.3,3045
+P00141,Zara Success Spor-856,Sports,Zara,1255.14,256
+P00142,Nestle Everything Book-820,Books,Nestle,931.81,3115
+P00143,Philips Simply Toys-231,Toys,Philips,1464.81,3531
+P00144,H&M Good Home-903,Home & Kitchen,H&M,326.35,4640
+P00145,Reebok National Book-347,Books,Reebok,1389.94,68
+P00146,Sony Light Elec-787,Electronics,Sony,945.1,1047
+P00147,Sony Reality Book-459,Books,Sony,1413.77,4872
+P00148,H&M Site Book-774,Books,H&M,279.03,3024
+P00149,Sony Impact Toys-311,Toys,Sony,684.36,3993
+P00150,Nike Image Spor-279,Sports,Nike,1226.61,1295
+P00151,Penguin Present Beau-643,Beauty,Penguin,1080.48,4009
+P00152,Nike Event Elec-326,Electronics,Nike,1499.71,958
+P00153,Nestle Tell Clot-459,Clothing,Nestle,187.26,1946
+P00154,Penguin Past Spor-670,Sports,Penguin,298.18,1163
+P00155,H&M Property Beau-676,Beauty,H&M,949.8,1018
+P00156,Nike Evidence Book-447,Books,Nike,645.96,2531
+P00157,Adidas Level Beau-666,Beauty,Adidas,745.72,4486
+P00158,Nike Size Groc-568,Groceries,Nike,1398.05,1892
+P00159,Dyson Bar Book-723,Books,Dyson,327.54,4206
+P00160,Philips Happy Clot-157,Clothing,Philips,1371.39,2282
+P00161,Penguin Health Home-543,Home & Kitchen,Penguin,242.77,3964
+P00162,Zara Thousand Spor-534,Sports,Zara,1180.14,1631
+P00163,H&M Production Spor-227,Sports,H&M,648.53,1263
+P00164,Dyson Table Elec-713,Electronics,Dyson,926.49,4500
+P00165,Dyson Sing Toys-646,Toys,Dyson,993.5,3896
+P00166,IKEA Edge Beau-782,Beauty,IKEA,1043.48,3943
+P00167,Nike Face Book-422,Books,Nike,337.23,3602
+P00168,Samsung Too Home-809,Home & Kitchen,Samsung,886.92,2897
+P00169,H&M Level Elec-493,Electronics,H&M,566.36,4856
+P00170,Dyson What Clot-757,Clothing,Dyson,197.0,4477
+P00171,H&M Entire Book-855,Books,H&M,596.69,2700
+P00172,L'Oreal Treat Beau-180,Beauty,L'Oreal,633.45,4684
+P00173,Adidas Front Spor-201,Sports,Adidas,1149.94,686
+P00174,Penguin Raise Clot-490,Clothing,Penguin,1136.38,4439
+P00175,L'Oreal Also Book-129,Books,L'Oreal,259.36,1025
+P00176,Apple Series Clot-142,Clothing,Apple,592.79,80
+P00177,Reebok Pull Spor-518,Sports,Reebok,378.48,1891
+P00178,Sony Carry Book-225,Books,Sony,827.04,1406
+P00179,Zara Environment Home-774,Home & Kitchen,Zara,138.0,2900
+P00180,Nike Agent Toys-304,Toys,Nike,1044.39,506
+P00181,Sony Stage Groc-931,Groceries,Sony,364.46,4223
+P00182,Nike His Groc-763,Groceries,Nike,1006.88,4187
+P00183,Dyson Effort Beau-429,Beauty,Dyson,1430.07,2522
+P00184,Samsung Level Spor-104,Sports,Samsung,698.98,2394
+P00185,H&M Mission Book-791,Books,H&M,1146.13,3692
+P00186,Nestle Condition Groc-397,Groceries,Nestle,186.04,2404
+P00187,H&M Plan Toys-961,Toys,H&M,1123.66,2837
+P00188,Apple Radio Clot-315,Clothing,Apple,150.14,2002
+P00189,Reebok Accept Spor-279,Sports,Reebok,1329.04,1816
+P00190,Sony Operation Spor-543,Sports,Sony,299.29,2723
+P00191,Sony Share Groc-461,Groceries,Sony,697.67,4142
+P00192,Lego Explain Toys-995,Toys,Lego,88.37,478
+P00193,H&M Respond Home-987,Home & Kitchen,H&M,508.14,3739
+P00194,Lego Theory Toys-536,Toys,Lego,71.68,3166
+P00195,Samsung Small Book-627,Books,Samsung,1405.05,1212
+P00196,Nike Need Toys-148,Toys,Nike,634.18,3356
+P00197,Penguin Popular Book-980,Books,Penguin,1271.83,1713
+P00198,Lego Information Home-881,Home & Kitchen,Lego,1467.01,4066
+P00199,H&M Forward Beau-209,Beauty,H&M,974.51,2127
+P00200,IKEA Unit Clot-788,Clothing,IKEA,411.66,2129
+P00201,Zara Dream Spor-546,Sports,Zara,782.97,4217
+P00202,Penguin Quality Spor-697,Sports,Penguin,1182.41,3176
+P00203,Samsung Price Elec-105,Electronics,Samsung,1323.38,4523
+P00204,Samsung Evening Home-625,Home & Kitchen,Samsung,734.95,3174
+P00205,Apple Go Spor-664,Sports,Apple,187.01,1765
+P00206,Nestle Understand Home-183,Home & Kitchen,Nestle,851.74,4144
+P00207,Apple Agreement Spor-961,Sports,Apple,1284.71,5000
+P00208,Philips Economic Groc-718,Groceries,Philips,197.21,3385
+P00209,Samsung Let Book-199,Books,Samsung,1272.25,606
+P00210,Sony Support Groc-470,Groceries,Sony,687.61,65
+P00211,Apple Teacher Clot-132,Clothing,Apple,1447.99,3531
+P00212,Dyson Happy Groc-962,Groceries,Dyson,482.5,1025
+P00213,Lego Far Home-234,Home & Kitchen,Lego,462.78,708
+P00214,IKEA Once Book-802,Books,IKEA,779.89,1841
+P00215,Apple Trial Home-209,Home & Kitchen,Apple,1360.92,3307
+P00216,Penguin Year Toys-912,Toys,Penguin,1125.44,3993
+P00217,Adidas Alone Groc-179,Groceries,Adidas,313.3,3775
+P00218,Zara Spring Beau-351,Beauty,Zara,177.99,2671
+P00219,Sony Meet Home-912,Home & Kitchen,Sony,1117.02,3495
+P00220,Reebok Network Home-920,Home & Kitchen,Reebok,520.21,2023
+P00221,Lego Account Groc-775,Groceries,Lego,557.98,760
+P00222,Penguin House Home-547,Home & Kitchen,Penguin,1131.4,3472
+P00223,Nike Drug Book-492,Books,Nike,325.66,898
+P00224,IKEA Night Groc-580,Groceries,IKEA,147.97,2701
+P00225,Apple Direction Beau-809,Beauty,Apple,295.46,1410
+P00226,H&M Decide Clot-855,Clothing,H&M,1480.41,1599
+P00227,Nike Shoulder Beau-339,Beauty,Nike,1177.39,192
+P00228,Adidas None Spor-390,Sports,Adidas,606.36,3878
+P00229,Zara Hot Beau-525,Beauty,Zara,1269.1,4137
+P00230,Penguin Wish Groc-556,Groceries,Penguin,455.77,2422
+P00231,Sony Interesting Toys-422,Toys,Sony,460.32,2072
+P00232,Nike Partner Home-627,Home & Kitchen,Nike,1271.77,4001
+P00233,Zara Current Spor-671,Sports,Zara,990.98,866
+P00234,Philips Culture Home-437,Home & Kitchen,Philips,1358.71,4178
+P00235,Nestle Set Groc-386,Groceries,Nestle,1233.0,2878
+P00236,Adidas Policy Elec-887,Electronics,Adidas,102.35,543
+P00237,L'Oreal Camera Spor-882,Sports,L'Oreal,999.67,3059
+P00238,Apple End Elec-821,Electronics,Apple,995.81,2647
+P00239,Zara Investment Toys-676,Toys,Zara,1380.02,1795
+P00240,Reebok Plant Groc-372,Groceries,Reebok,443.26,4030
+P00241,Adidas Hundred Clot-415,Clothing,Adidas,134.72,2780
+P00242,Dyson Floor Spor-920,Sports,Dyson,780.35,2039
+P00243,H&M Sit Beau-951,Beauty,H&M,135.46,3472
+P00244,Reebok Network Book-569,Books,Reebok,1241.37,1108
+P00245,Lego And Groc-959,Groceries,Lego,576.74,3455
+P00246,Sony Same Home-891,Home & Kitchen,Sony,68.72,3448
+P00247,Dyson Why Groc-150,Groceries,Dyson,1301.17,4971
+P00248,Adidas Factor Spor-484,Sports,Adidas,663.69,3989
+P00249,L'Oreal Talk Groc-418,Groceries,L'Oreal,1271.1,274
+P00250,Adidas Statement Beau-699,Beauty,Adidas,706.32,999
+P00251,Apple Air Clot-290,Clothing,Apple,1479.44,450
+P00252,Adidas May Elec-787,Electronics,Adidas,1376.08,2255
+P00253,Zara Do Elec-853,Electronics,Zara,372.03,4187
+P00254,Nestle Low Home-853,Home & Kitchen,Nestle,1027.83,3978
+P00255,Dyson Determine Spor-847,Sports,Dyson,1381.78,434
+P00256,Nike Around Spor-780,Sports,Nike,21.08,3255
+P00257,L'Oreal Suggest Toys-546,Toys,L'Oreal,1054.96,790
+P00258,Nestle Type Beau-620,Beauty,Nestle,1187.06,4082
+P00259,Apple Face Groc-662,Groceries,Apple,770.42,2494
+P00260,H&M Begin Book-612,Books,H&M,940.45,4027
+P00261,Nestle He Book-817,Books,Nestle,873.55,698
+P00262,L'Oreal Ability Clot-994,Clothing,L'Oreal,900.18,3752
+P00263,Lego Seven Beau-168,Beauty,Lego,972.71,443
+P00264,Zara Up Toys-825,Toys,Zara,1362.29,1449
+P00265,Dyson Imagine Spor-834,Sports,Dyson,858.74,2902
+P00266,Samsung Discover Clot-651,Clothing,Samsung,1291.14,1672
+P00267,Reebok Control Home-605,Home & Kitchen,Reebok,1007.55,3258
+P00268,Apple Talk Toys-977,Toys,Apple,641.35,4967
+P00269,IKEA Seat Beau-118,Beauty,IKEA,36.2,1534
+P00270,Reebok Even Toys-438,Toys,Reebok,95.39,1870
+P00271,Philips This Elec-424,Electronics,Philips,1374.2,2142
+P00272,Nike All Clot-379,Clothing,Nike,1133.57,322
+P00273,Lego Former Groc-482,Groceries,Lego,1266.63,1826
+P00274,Penguin Board Spor-282,Sports,Penguin,1259.53,2312
+P00275,Nestle Answer Book-547,Books,Nestle,84.29,4667
+P00276,H&M Suffer Toys-805,Toys,H&M,110.62,248
+P00277,Reebok Sing Beau-747,Beauty,Reebok,1021.16,1348
+P00278,Samsung Until Groc-408,Groceries,Samsung,1160.28,1687
+P00279,Apple Chance Toys-554,Toys,Apple,600.64,1175
+P00280,Lego Involve Groc-602,Groceries,Lego,568.23,930
+P00281,Penguin Herself Spor-407,Sports,Penguin,948.37,3309
+P00282,L'Oreal Name Clot-838,Clothing,L'Oreal,343.88,987
+P00283,Sony Drug Book-302,Books,Sony,1402.07,4195
+P00284,Dyson True Spor-411,Sports,Dyson,839.91,4721
+P00285,Adidas No Book-167,Books,Adidas,271.48,413
+P00286,Apple Live Elec-884,Electronics,Apple,500.99,348
+P00287,Samsung Program Beau-897,Beauty,Samsung,49.15,1436
+P00288,Nike Party Beau-793,Beauty,Nike,679.48,1760
+P00289,Sony Lay Toys-357,Toys,Sony,279.06,1995
+P00290,Sony Describe Groc-354,Groceries,Sony,330.5,1675
+P00291,H&M Defense Beau-748,Beauty,H&M,227.9,512
+P00292,Philips Vote Beau-741,Beauty,Philips,662.53,4199
+P00293,H&M Film Groc-946,Groceries,H&M,593.32,613
+P00294,Reebok Window Groc-580,Groceries,Reebok,910.28,2411
+P00295,Dyson Indicate Home-724,Home & Kitchen,Dyson,270.58,287
+P00296,Nestle Manage Clot-239,Clothing,Nestle,746.11,2191
+P00297,Nike Fast Home-825,Home & Kitchen,Nike,514.27,711
+P00298,Reebok Raise Groc-445,Groceries,Reebok,1476.91,4016
+P00299,Adidas Late Toys-182,Toys,Adidas,341.23,2243
+P00300,Dyson Exactly Elec-987,Electronics,Dyson,1091.21,2248
+P00301,H&M Role Toys-182,Toys,H&M,935.35,3438
+P00302,Nike Story Book-724,Books,Nike,597.6,1406
+P00303,Nike Wear Groc-382,Groceries,Nike,529.59,422
+P00304,Penguin Indeed Toys-806,Toys,Penguin,799.27,3551
+P00305,IKEA Treat Toys-955,Toys,IKEA,1156.37,1754
+P00306,Apple Lay Groc-480,Groceries,Apple,1045.95,3674
+P00307,Nike Skill Groc-792,Groceries,Nike,1326.96,3793
+P00308,IKEA Always Clot-167,Clothing,IKEA,864.95,4675
+P00309,H&M End Spor-810,Sports,H&M,985.31,4956
+P00310,Nestle Discover Clot-488,Clothing,Nestle,1083.35,3918
+P00311,Dyson Today Elec-983,Electronics,Dyson,1129.39,4009
+P00312,Samsung Tough Elec-230,Electronics,Samsung,261.03,3592
+P00313,Reebok Century Toys-264,Toys,Reebok,1106.15,2507
+P00314,IKEA Well Book-553,Books,IKEA,761.12,2377
+P00315,Samsung Mention Spor-816,Sports,Samsung,1454.17,1797
+P00316,Apple Debate Groc-752,Groceries,Apple,1133.29,3441
+P00317,Lego Term Beau-448,Beauty,Lego,1251.06,2519
+P00318,Dyson Step Clot-881,Clothing,Dyson,1283.74,3396
+P00319,Zara Own Beau-766,Beauty,Zara,769.24,2226
+P00320,Sony President Spor-282,Sports,Sony,16.51,4762
+P00321,IKEA Matter Home-487,Home & Kitchen,IKEA,831.59,3298
+P00322,Samsung Everything Groc-763,Groceries,Samsung,1029.14,3853
+P00323,Penguin Brother Book-855,Books,Penguin,1189.83,4352
+P00324,Reebok Government Book-979,Books,Reebok,433.98,3965
+P00325,Philips Phone Toys-432,Toys,Philips,325.46,4751
+P00326,L'Oreal Choice Home-865,Home & Kitchen,L'Oreal,1430.2,2358
+P00327,Samsung Stay Spor-617,Sports,Samsung,171.87,1056
+P00328,IKEA Argue Home-454,Home & Kitchen,IKEA,1467.79,3036
+P00329,L'Oreal Section Elec-177,Electronics,L'Oreal,211.48,3453
+P00330,L'Oreal Son Toys-870,Toys,L'Oreal,361.59,3059
+P00331,Zara Parent Elec-387,Electronics,Zara,1258.25,2582
+P00332,Sony Federal Book-762,Books,Sony,968.22,1903
+P00333,L'Oreal Television Clot-888,Clothing,L'Oreal,857.3,3472
+P00334,IKEA Team Toys-248,Toys,IKEA,1212.88,2074
+P00335,Nestle Available Groc-538,Groceries,Nestle,8.64,4550
+P00336,Reebok Argue Home-796,Home & Kitchen,Reebok,1450.33,486
+P00337,Nike Understand Groc-162,Groceries,Nike,78.18,2089
+P00338,Apple Behavior Book-891,Books,Apple,1268.95,4326
+P00339,L'Oreal Against Toys-215,Toys,L'Oreal,945.29,4813
+P00340,Zara Country Spor-717,Sports,Zara,1257.71,3918
+P00341,Dyson Production Spor-994,Sports,Dyson,1136.46,1833
+P00342,Adidas Middle Spor-617,Sports,Adidas,297.55,1604
+P00343,H&M Least Groc-539,Groceries,H&M,833.09,1722
+P00344,Apple Another Toys-694,Toys,Apple,1187.42,1225
+P00345,Apple Meeting Book-225,Books,Apple,1439.58,1723
+P00346,Apple Summer Toys-204,Toys,Apple,1367.01,3103
+P00347,IKEA None Book-860,Books,IKEA,217.36,2724
+P00348,Nestle Break Elec-927,Electronics,Nestle,1242.76,4941
+P00349,Nestle Rest Spor-656,Sports,Nestle,1462.49,1907
+P00350,IKEA Tv Book-216,Books,IKEA,871.74,4282
+P00351,Lego Pick Elec-628,Electronics,Lego,387.19,4889
+P00352,Samsung Generation Toys-782,Toys,Samsung,299.46,1708
+P00353,IKEA Building Beau-708,Beauty,IKEA,1363.5,2874
+P00354,Apple Including Elec-504,Electronics,Apple,698.22,1263
+P00355,Dyson Firm Toys-746,Toys,Dyson,653.7,4379
+P00356,Philips National Clot-157,Clothing,Philips,677.03,3607
+P00357,Sony Everybody Groc-554,Groceries,Sony,1210.76,4409
+P00358,Nestle Person Toys-786,Toys,Nestle,1069.44,4929
+P00359,Nike Upon Groc-645,Groceries,Nike,1493.82,4987
+P00360,Penguin Main Elec-767,Electronics,Penguin,866.45,2168
+P00361,Apple Maybe Toys-906,Toys,Apple,863.36,4657
+P00362,Adidas Others Spor-133,Sports,Adidas,545.51,3980
+P00363,Samsung Protect Beau-784,Beauty,Samsung,639.57,2099
+P00364,Lego Manager Home-220,Home & Kitchen,Lego,87.71,1928
+P00365,IKEA Degree Spor-386,Sports,IKEA,1475.95,3868
+P00366,Adidas National Groc-498,Groceries,Adidas,528.52,4326
+P00367,Reebok Debate Beau-720,Beauty,Reebok,170.98,4395
+P00368,Reebok Eat Toys-502,Toys,Reebok,126.18,1156
+P00369,Samsung Travel Beau-509,Beauty,Samsung,361.13,2984
+P00370,IKEA They Groc-370,Groceries,IKEA,703.31,1670
+P00371,Nestle Age Book-883,Books,Nestle,225.39,3250
+P00372,Samsung Late Book-111,Books,Samsung,700.28,4528
+P00373,H&M Begin Beau-332,Beauty,H&M,764.63,2907
+P00374,Samsung Everyone Elec-692,Electronics,Samsung,934.75,4823
+P00375,Lego Enter Toys-803,Toys,Lego,1399.59,4656
+P00376,Reebok Dinner Home-814,Home & Kitchen,Reebok,1463.99,2564
+P00377,Philips Visit Elec-434,Electronics,Philips,101.86,2189
+P00378,L'Oreal Fund Elec-615,Electronics,L'Oreal,1134.51,1830
+P00379,Sony Likely Book-721,Books,Sony,734.21,2238
+P00380,H&M Training Spor-393,Sports,H&M,1427.2,2634
+P00381,Lego Reality Spor-961,Sports,Lego,444.04,4631
+P00382,Nike Hot Toys-832,Toys,Nike,96.93,4091
+P00383,Nestle Expect Groc-245,Groceries,Nestle,228.49,1158
+P00384,L'Oreal Season Toys-991,Toys,L'Oreal,1361.63,692
+P00385,Philips Your Book-347,Books,Philips,359.22,279
+P00386,IKEA Material Elec-608,Electronics,IKEA,21.6,3770
+P00387,Sony News Book-161,Books,Sony,1284.81,3901
+P00388,Reebok Performance Toys-994,Toys,Reebok,1475.5,3853
+P00389,Sony Develop Toys-676,Toys,Sony,368.63,4403
+P00390,Philips Top Elec-426,Electronics,Philips,166.86,2935
+P00391,H&M Growth Spor-667,Sports,H&M,569.11,4868
+P00392,Nike Agency Elec-545,Electronics,Nike,775.99,576
+P00393,Reebok Young Home-138,Home & Kitchen,Reebok,749.44,52
+P00394,Samsung System Elec-512,Electronics,Samsung,919.73,662
+P00395,Penguin Which Book-642,Books,Penguin,1327.5,2837
+P00396,H&M Guy Spor-699,Sports,H&M,1341.07,1284
+P00397,H&M Relate Home-364,Home & Kitchen,H&M,387.92,2915
+P00398,Penguin Sometimes Toys-287,Toys,Penguin,322.12,1041
+P00399,L'Oreal Special Clot-860,Clothing,L'Oreal,1459.0,2532
+P00400,Reebok Put Beau-185,Beauty,Reebok,288.35,4684
+P00401,Dyson Rich Book-187,Books,Dyson,1365.35,3293
+P00402,Adidas Cover Spor-153,Sports,Adidas,361.5,648
+P00403,Lego It Book-697,Books,Lego,494.08,340
+P00404,Samsung Almost Groc-457,Groceries,Samsung,1108.31,3566
+P00405,Sony Cultural Book-166,Books,Sony,24.45,3533
+P00406,Lego Soon Spor-214,Sports,Lego,977.92,521
+P00407,Apple Manage Home-972,Home & Kitchen,Apple,729.59,336
+P00408,Nike Air Clot-564,Clothing,Nike,1242.02,203
+P00409,Zara She Toys-913,Toys,Zara,903.68,4344
+P00410,Nike International Home-382,Home & Kitchen,Nike,474.38,4466
+P00411,Philips Traditional Groc-924,Groceries,Philips,781.56,4935
+P00412,IKEA News Toys-617,Toys,IKEA,866.54,1921
+P00413,Reebok Many Elec-757,Electronics,Reebok,284.69,2350
+P00414,Penguin Good Elec-247,Electronics,Penguin,116.69,2942
+P00415,Penguin Lead Elec-492,Electronics,Penguin,1297.22,4584
+P00416,Sony Something Spor-209,Sports,Sony,858.57,1226
+P00417,Samsung Many Toys-368,Toys,Samsung,1054.02,4475
+P00418,Sony As Book-640,Books,Sony,853.04,2670
+P00419,Zara Medical Beau-664,Beauty,Zara,106.59,2226
+P00420,Samsung Bed Beau-708,Beauty,Samsung,1311.45,4453
+P00421,Penguin Provide Toys-415,Toys,Penguin,691.28,1529
+P00422,Dyson Throughout Groc-964,Groceries,Dyson,1413.44,3053
+P00423,Apple Who Beau-568,Beauty,Apple,462.54,3866
+P00424,Penguin Scene Elec-508,Electronics,Penguin,573.93,1843
+P00425,H&M Number Elec-904,Electronics,H&M,1390.26,387
+P00426,Lego Response Book-106,Books,Lego,878.69,2529
+P00427,Dyson Year Beau-500,Beauty,Dyson,1308.04,2954
+P00428,H&M Call Elec-199,Electronics,H&M,212.09,1811
+P00429,Samsung Year Book-527,Books,Samsung,595.12,3071
+P00430,Lego Collection Toys-956,Toys,Lego,87.66,2949
+P00431,Penguin Plan Elec-732,Electronics,Penguin,36.12,4188
+P00432,Dyson Court Book-481,Books,Dyson,1045.86,3507
+P00433,Nestle Edge Book-650,Books,Nestle,1337.5,1742
+P00434,Zara Use Groc-816,Groceries,Zara,1451.2,4781
+P00435,Philips Serve Clot-716,Clothing,Philips,466.02,2183
+P00436,Nestle Inside Spor-255,Sports,Nestle,1315.12,4862
+P00437,Sony Win Elec-295,Electronics,Sony,491.77,1248
+P00438,Sony Beyond Clot-909,Clothing,Sony,1151.62,4640
+P00439,Reebok Travel Toys-967,Toys,Reebok,32.32,1021
+P00440,IKEA Discover Elec-566,Electronics,IKEA,636.76,2228
+P00441,Nike Over Groc-882,Groceries,Nike,1155.08,2527
+P00442,L'Oreal Break Home-791,Home & Kitchen,L'Oreal,980.2,1379
+P00443,Nike Care Clot-176,Clothing,Nike,1221.03,4758
+P00444,IKEA Cup Elec-547,Electronics,IKEA,973.8,1094
+P00445,Nestle Million Spor-560,Sports,Nestle,292.25,4523
+P00446,Reebok Main Clot-324,Clothing,Reebok,1422.81,2042
+P00447,Zara Environment Elec-650,Electronics,Zara,368.82,2155
+P00448,IKEA Himself Book-355,Books,IKEA,738.69,107
+P00449,L'Oreal Piece Spor-495,Sports,L'Oreal,329.21,1606
+P00450,Apple Quite Home-553,Home & Kitchen,Apple,400.07,1256
+P00451,Lego Per Book-427,Books,Lego,608.09,4525
+P00452,Lego Near Toys-878,Toys,Lego,799.55,2733
+P00453,Samsung Finish Elec-150,Electronics,Samsung,1074.71,4556
+P00454,Philips Remember Book-816,Books,Philips,1131.72,4460
+P00455,Penguin Blue Clot-580,Clothing,Penguin,1249.09,435
+P00456,H&M Scene Clot-421,Clothing,H&M,407.98,4452
+P00457,Nestle Since Book-653,Books,Nestle,164.26,404
+P00458,Nestle Despite Groc-735,Groceries,Nestle,1450.1,2242
+P00459,Reebok Where Clot-388,Clothing,Reebok,1320.46,4256
+P00460,Penguin White Clot-785,Clothing,Penguin,1137.74,935
+P00461,L'Oreal Energy Beau-537,Beauty,L'Oreal,612.47,4887
+P00462,L'Oreal Moment Book-213,Books,L'Oreal,683.94,291
+P00463,H&M Its Elec-955,Electronics,H&M,612.97,2977
+P00464,H&M Worry Toys-244,Toys,H&M,1366.49,3202
+P00465,Apple Month Toys-666,Toys,Apple,546.23,2569
+P00466,Adidas Like Book-895,Books,Adidas,1311.28,3268
+P00467,Nestle Act Spor-921,Sports,Nestle,746.93,3551
+P00468,Zara Good Book-735,Books,Zara,1334.72,4911
+P00469,IKEA Whom Elec-778,Electronics,IKEA,346.8,2306
+P00470,Adidas Rule Home-921,Home & Kitchen,Adidas,843.75,3505
+P00471,IKEA Mouth Home-490,Home & Kitchen,IKEA,646.41,2206
+P00472,Zara Start Beau-761,Beauty,Zara,166.03,3211
+P00473,L'Oreal Activity Clot-494,Clothing,L'Oreal,1330.3,4494
+P00474,Lego Might Spor-323,Sports,Lego,1069.92,4403
+P00475,Dyson Particular Elec-483,Electronics,Dyson,1129.03,1644
+P00476,Dyson Attorney Clot-469,Clothing,Dyson,127.68,1635
+P00477,Dyson Son Clot-301,Clothing,Dyson,521.52,931
+P00478,Nestle Another Clot-104,Clothing,Nestle,249.95,4151
+P00479,Nestle Production Beau-292,Beauty,Nestle,449.16,3737
+P00480,Nestle Suffer Spor-274,Sports,Nestle,1123.47,1856
+P00481,Nestle Some Clot-881,Clothing,Nestle,573.48,4998
+P00482,Apple Interview Toys-264,Toys,Apple,1322.27,2836
+P00483,Dyson Through Book-635,Books,Dyson,1483.78,2239
+P00484,Nike Put Spor-320,Sports,Nike,953.7,2573
+P00485,L'Oreal Himself Groc-115,Groceries,L'Oreal,793.94,2518
+P00486,L'Oreal By Groc-128,Groceries,L'Oreal,1298.55,1599
+P00487,IKEA Various Groc-688,Groceries,IKEA,944.54,854
+P00488,Penguin All Groc-517,Groceries,Penguin,515.61,3973
+P00489,Lego Tell Elec-227,Electronics,Lego,762.63,1989
+P00490,L'Oreal Late Beau-252,Beauty,L'Oreal,496.55,707
+P00491,Zara Example Elec-423,Electronics,Zara,394.74,2565
+P00492,Zara Amount Clot-778,Clothing,Zara,193.42,855
+P00493,Philips Mission Book-232,Books,Philips,773.23,3538
+P00494,L'Oreal Also Spor-660,Sports,L'Oreal,380.39,546
+P00495,H&M Look Toys-891,Toys,H&M,135.25,3698
+P00496,Philips News Elec-951,Electronics,Philips,976.87,3118
+P00497,Zara Democratic Beau-220,Beauty,Zara,459.9,2665
+P00498,Adidas Sort Spor-604,Sports,Adidas,1035.19,2863
+P00499,Samsung Note Home-198,Home & Kitchen,Samsung,1229.39,3122
+P00500,L'Oreal Responsibility Clot-545,Clothing,L'Oreal,1411.46,894
+P00501,Dyson Quite Toys-405,Toys,Dyson,1490.62,2872
+P00502,Adidas Fish Groc-292,Groceries,Adidas,715.37,4241
+P00503,Samsung Let Beau-841,Beauty,Samsung,930.53,1651
+P00504,Nike Nice Beau-744,Beauty,Nike,739.63,563
+P00505,Zara Side Elec-105,Electronics,Zara,733.0,4700
+P00506,Nestle Exist Book-757,Books,Nestle,157.68,2450
+P00507,Nike Music Book-419,Books,Nike,876.39,808
+P00508,Zara Deal Beau-977,Beauty,Zara,1037.4,2942
+P00509,Apple Support Book-893,Books,Apple,288.18,3984
+P00510,Lego Action Spor-662,Sports,Lego,59.23,3825
+P00511,Zara Drive Home-503,Home & Kitchen,Zara,642.37,638
+P00512,Apple Environmental Elec-363,Electronics,Apple,365.65,4263
+P00513,Lego Nation Clot-947,Clothing,Lego,813.6,4337
+P00514,H&M Thought Home-579,Home & Kitchen,H&M,1071.7,1600
+P00515,H&M Specific Elec-708,Electronics,H&M,908.18,3732
+P00516,Reebok Have Elec-419,Electronics,Reebok,1086.57,3155
+P00517,L'Oreal Maintain Beau-448,Beauty,L'Oreal,9.78,179
+P00518,Lego Different Elec-787,Electronics,Lego,8.85,2929
+P00519,Dyson Lead Clot-724,Clothing,Dyson,923.93,4191
+P00520,H&M Wonder Clot-625,Clothing,H&M,721.71,1728
+P00521,Samsung Tree Elec-281,Electronics,Samsung,742.0,3093
+P00522,Sony Get Spor-242,Sports,Sony,1212.61,3743
+P00523,IKEA Receive Home-311,Home & Kitchen,IKEA,1174.33,1818
+P00524,Zara Feel Toys-977,Toys,Zara,489.33,2144
+P00525,IKEA Road Spor-764,Sports,IKEA,581.82,367
+P00526,Zara Resource Book-149,Books,Zara,394.24,1915
+P00527,Adidas Account Book-435,Books,Adidas,1265.8,1345
+P00528,Reebok Trip Toys-944,Toys,Reebok,987.06,2998
+P00529,Zara Film Beau-310,Beauty,Zara,83.36,2817
+P00530,Zara Understand Spor-579,Sports,Zara,1333.49,2500
+P00531,Nike Everybody Book-299,Books,Nike,1017.17,2840
+P00532,L'Oreal Pressure Toys-248,Toys,L'Oreal,634.1,3111
+P00533,Sony Carry Elec-126,Electronics,Sony,917.03,3755
+P00534,Nestle Measure Home-361,Home & Kitchen,Nestle,1324.31,2574
+P00535,L'Oreal Crime Clot-770,Clothing,L'Oreal,1050.32,937
+P00536,L'Oreal My Toys-193,Toys,L'Oreal,1187.72,4980
+P00537,Sony Article Clot-304,Clothing,Sony,654.13,3439
+P00538,Sony Possible Beau-150,Beauty,Sony,1460.31,1281
+P00539,Philips Action Book-395,Books,Philips,1328.39,1419
+P00540,Samsung Current Toys-143,Toys,Samsung,622.04,4423
+P00541,IKEA Buy Home-293,Home & Kitchen,IKEA,783.36,1668
+P00542,H&M Trial Book-573,Books,H&M,915.77,1537
+P00543,Philips Live Book-686,Books,Philips,454.41,4606
+P00544,IKEA Once Home-433,Home & Kitchen,IKEA,100.37,3953
+P00545,H&M Trouble Beau-597,Beauty,H&M,486.5,4886
+P00546,Zara Tell Beau-555,Beauty,Zara,690.33,3261
+P00547,Penguin Move Book-204,Books,Penguin,247.77,4203
+P00548,Lego Election Book-306,Books,Lego,806.42,3507
+P00549,Lego Strong Groc-533,Groceries,Lego,523.84,3719
+P00550,Adidas Record Elec-182,Electronics,Adidas,1104.1,641
+P00551,IKEA Stock Home-742,Home & Kitchen,IKEA,111.71,1839
+P00552,Penguin In Groc-904,Groceries,Penguin,319.26,2144
+P00553,Nike Suggest Home-408,Home & Kitchen,Nike,434.42,4188
+P00554,H&M Establish Spor-911,Sports,H&M,507.0,2716
+P00555,L'Oreal Else Groc-677,Groceries,L'Oreal,762.18,1892
+P00556,Philips Sister Toys-632,Toys,Philips,1456.01,4603
+P00557,Penguin Yourself Home-254,Home & Kitchen,Penguin,560.6,2345
+P00558,Samsung Beautiful Spor-738,Sports,Samsung,1286.38,2798
+P00559,Philips Later Spor-873,Sports,Philips,512.73,524
+P00560,Nike Mind Book-601,Books,Nike,297.55,2347
+P00561,Lego Size Toys-970,Toys,Lego,36.76,3543
+P00562,Sony Natural Home-361,Home & Kitchen,Sony,707.96,2932
+P00563,Reebok Gas Groc-428,Groceries,Reebok,625.74,863
+P00564,Apple Skin Elec-147,Electronics,Apple,998.36,629
+P00565,Reebok Probably Elec-318,Electronics,Reebok,1229.77,1329
+P00566,Philips Morning Home-205,Home & Kitchen,Philips,1075.02,1717
+P00567,Penguin Them Book-209,Books,Penguin,272.4,3420
+P00568,IKEA Example Spor-295,Sports,IKEA,234.16,2908
+P00569,Nike Yourself Beau-368,Beauty,Nike,1464.38,1345
+P00570,H&M Every Toys-336,Toys,H&M,943.71,3378
+P00571,Nike Example Home-402,Home & Kitchen,Nike,399.79,1662
+P00572,Nike Visit Groc-444,Groceries,Nike,970.76,2184
+P00573,Nike Analysis Book-954,Books,Nike,928.7,4001
+P00574,Nestle Ok Groc-663,Groceries,Nestle,752.55,264
+P00575,Dyson Or Clot-227,Clothing,Dyson,960.1,4960
+P00576,Adidas Reason Clot-282,Clothing,Adidas,636.95,2445
+P00577,Adidas Page Home-279,Home & Kitchen,Adidas,1060.85,3221
+P00578,Penguin Wear Spor-463,Sports,Penguin,1190.67,3395
+P00579,Adidas Four Elec-296,Electronics,Adidas,1077.3,4609
+P00580,Nike Situation Spor-135,Sports,Nike,1315.19,2795
+P00581,Nike People Groc-681,Groceries,Nike,685.2,1441
+P00582,Sony Dinner Spor-661,Sports,Sony,154.78,2402
+P00583,Penguin Agent Book-240,Books,Penguin,683.83,4580
+P00584,Lego Decision Groc-754,Groceries,Lego,1168.39,3120
+P00585,Philips Cultural Elec-286,Electronics,Philips,1318.86,2701
+P00586,L'Oreal Process Toys-122,Toys,L'Oreal,1481.22,4778
+P00587,Samsung Along Spor-737,Sports,Samsung,919.87,4375
+P00588,Apple Main Toys-721,Toys,Apple,1467.43,4912
+P00589,Samsung Produce Book-593,Books,Samsung,1045.31,3576
+P00590,Zara Very Groc-501,Groceries,Zara,856.4,4970
+P00591,Dyson Hot Spor-637,Sports,Dyson,1426.29,4665
+P00592,Philips Least Clot-742,Clothing,Philips,854.38,4603
+P00593,L'Oreal Accept Groc-498,Groceries,L'Oreal,180.97,1920
+P00594,Zara Through Clot-812,Clothing,Zara,994.89,295
+P00595,L'Oreal Sell Home-193,Home & Kitchen,L'Oreal,546.61,926
+P00596,H&M Thank Groc-434,Groceries,H&M,781.96,3247
+P00597,Philips Guess Spor-563,Sports,Philips,320.05,1674
+P00598,IKEA Clear Spor-584,Sports,IKEA,56.21,4134
+P00599,Lego Land Toys-544,Toys,Lego,754.92,4366
+P00600,H&M President Book-652,Books,H&M,1250.82,2200
+P00601,Nike Probably Spor-191,Sports,Nike,580.88,549
+P00602,Sony Statement Elec-787,Electronics,Sony,1042.6,2904
+P00603,L'Oreal Arm Clot-817,Clothing,L'Oreal,925.54,3781
+P00604,Reebok Capital Spor-728,Sports,Reebok,1402.63,2979
+P00605,Sony Six Beau-305,Beauty,Sony,121.86,2784
+P00606,Nestle High Book-607,Books,Nestle,104.25,370
+P00607,Dyson Cold Spor-156,Sports,Dyson,1497.43,1178
+P00608,Penguin Design Groc-687,Groceries,Penguin,624.44,4564
+P00609,Apple These Book-492,Books,Apple,916.68,4979
+P00610,Penguin Which Spor-988,Sports,Penguin,784.49,1669
+P00611,Philips Range Beau-264,Beauty,Philips,286.56,2144
+P00612,Reebok Always Beau-441,Beauty,Reebok,254.76,830
+P00613,Penguin Way Home-824,Home & Kitchen,Penguin,1305.37,4490
+P00614,Samsung Case Toys-534,Toys,Samsung,212.72,40
+P00615,Apple Policy Clot-145,Clothing,Apple,1024.77,391
+P00616,Penguin Yourself Clot-227,Clothing,Penguin,1198.27,2473
+P00617,L'Oreal Piece Clot-102,Clothing,L'Oreal,540.61,488
+P00618,Samsung Reason Book-781,Books,Samsung,123.38,1983
+P00619,Nestle Prevent Beau-744,Beauty,Nestle,412.76,1323
+P00620,Philips Interest Toys-324,Toys,Philips,1176.47,2086
+P00621,Philips I Clot-287,Clothing,Philips,261.77,3374
+P00622,Nestle Deal Beau-238,Beauty,Nestle,483.79,2186
+P00623,Sony Discuss Spor-688,Sports,Sony,1110.99,1460
+P00624,Penguin Against Beau-316,Beauty,Penguin,901.54,3259
+P00625,H&M Plan Elec-396,Electronics,H&M,194.1,214
+P00626,Nestle Test Clot-389,Clothing,Nestle,1063.21,2264
+P00627,Penguin Vote Home-788,Home & Kitchen,Penguin,359.74,4679
+P00628,Apple Company Toys-766,Toys,Apple,509.43,1521
+P00629,Reebok Whether Groc-932,Groceries,Reebok,1420.86,3543
+P00630,Samsung Else Home-682,Home & Kitchen,Samsung,151.35,4496
+P00631,IKEA Help Clot-256,Clothing,IKEA,463.45,3147
+P00632,Nike To Toys-365,Toys,Nike,1326.15,4398
+P00633,Zara Instead Elec-923,Electronics,Zara,734.87,1322
+P00634,Zara Head Elec-880,Electronics,Zara,1263.88,4808
+P00635,Zara Evidence Elec-545,Electronics,Zara,1012.74,2932
+P00636,H&M About Clot-950,Clothing,H&M,1030.99,634
+P00637,Nestle Election Clot-449,Clothing,Nestle,975.83,1931
+P00638,Nestle All Clot-156,Clothing,Nestle,207.23,2869
+P00639,Adidas Less Spor-610,Sports,Adidas,899.83,13
+P00640,Samsung Picture Toys-415,Toys,Samsung,1347.68,1930
+P00641,Reebok Question Groc-590,Groceries,Reebok,1381.93,4508
+P00642,IKEA Personal Groc-887,Groceries,IKEA,554.85,3827
+P00643,Nestle Buy Clot-241,Clothing,Nestle,58.03,940
+P00644,Adidas Suggest Book-345,Books,Adidas,344.6,60
+P00645,Philips Head Spor-989,Sports,Philips,283.6,3135
+P00646,L'Oreal Face Toys-555,Toys,L'Oreal,1146.41,550
+P00647,Philips Support Spor-341,Sports,Philips,109.56,822
+P00648,Nike Study Book-709,Books,Nike,624.76,1857
+P00649,Apple Thought Beau-868,Beauty,Apple,1185.44,2466
+P00650,IKEA As Home-522,Home & Kitchen,IKEA,985.72,1617
+P00651,Penguin Summer Clot-409,Clothing,Penguin,1325.55,144
+P00652,Adidas Couple Elec-757,Electronics,Adidas,1444.94,2549
+P00653,Adidas Result Clot-177,Clothing,Adidas,536.89,3120
+P00654,Adidas Major Book-979,Books,Adidas,1230.63,3106
+P00655,Nestle Detail Toys-190,Toys,Nestle,314.69,2507
+P00656,Philips Window Toys-822,Toys,Philips,297.64,683
+P00657,Penguin Common Beau-272,Beauty,Penguin,279.7,1111
+P00658,IKEA Agree Spor-432,Sports,IKEA,1031.97,2529
+P00659,Sony Buy Book-291,Books,Sony,1236.67,4879
+P00660,Reebok Child Groc-727,Groceries,Reebok,854.34,2094
+P00661,Penguin Trial Toys-548,Toys,Penguin,686.82,4503
+P00662,Dyson Production Spor-326,Sports,Dyson,523.05,977
+P00663,Samsung Politics Groc-799,Groceries,Samsung,584.4,53
+P00664,L'Oreal Heavy Toys-190,Toys,L'Oreal,219.77,625
+P00665,L'Oreal Dinner Book-141,Books,L'Oreal,237.56,2140
+P00666,Apple Better Groc-309,Groceries,Apple,17.46,3707
+P00667,Samsung Open Book-209,Books,Samsung,602.81,1161
+P00668,Dyson Will Groc-121,Groceries,Dyson,1438.15,2206
+P00669,L'Oreal General Clot-204,Clothing,L'Oreal,1299.15,2836
+P00670,Lego Above Home-719,Home & Kitchen,Lego,944.65,1646
+P00671,Philips Age Toys-404,Toys,Philips,254.85,1251
+P00672,IKEA Final Clot-994,Clothing,IKEA,612.3,2142
+P00673,L'Oreal Career Book-307,Books,L'Oreal,584.33,3425
+P00674,Zara Deep Groc-543,Groceries,Zara,720.74,2504
+P00675,Nestle Bar Toys-744,Toys,Nestle,1283.97,1523
+P00676,Zara Red Toys-626,Toys,Zara,615.46,1593
+P00677,Philips Yourself Elec-906,Electronics,Philips,138.04,1904
+P00678,Adidas Night Spor-235,Sports,Adidas,734.83,4595
+P00679,Reebok Challenge Home-196,Home & Kitchen,Reebok,1245.63,9
+P00680,Dyson Scene Home-527,Home & Kitchen,Dyson,1001.09,3964
+P00681,Zara American Clot-680,Clothing,Zara,580.28,2429
+P00682,Zara Son Beau-196,Beauty,Zara,1286.37,2882
+P00683,L'Oreal Room Clot-852,Clothing,L'Oreal,692.18,3460
+P00684,Lego Too Clot-856,Clothing,Lego,67.21,1710
+P00685,Zara If Beau-434,Beauty,Zara,1462.14,1230
+P00686,Samsung Worker Toys-938,Toys,Samsung,630.99,1506
+P00687,Apple Nation Home-569,Home & Kitchen,Apple,851.62,3309
+P00688,L'Oreal Card Clot-897,Clothing,L'Oreal,131.51,88
+P00689,Lego System Toys-171,Toys,Lego,1010.25,3019
+P00690,Zara When Home-294,Home & Kitchen,Zara,241.24,2763
+P00691,Apple Around Groc-713,Groceries,Apple,73.72,4482
+P00692,Reebok Fish Book-144,Books,Reebok,638.21,122
+P00693,Samsung Newspaper Spor-933,Sports,Samsung,1056.65,1823
+P00694,Sony Two Beau-866,Beauty,Sony,1433.77,583
+P00695,IKEA Capital Clot-150,Clothing,IKEA,210.28,1741
+P00696,H&M Station Elec-963,Electronics,H&M,976.7,1919
+P00697,Dyson Room Book-687,Books,Dyson,1249.43,797
+P00698,Zara Alone Home-741,Home & Kitchen,Zara,235.31,288
+P00699,IKEA Our Groc-250,Groceries,IKEA,299.51,1676
+P00700,Penguin Economy Spor-853,Sports,Penguin,832.4,1823
+P00701,Zara Where Spor-653,Sports,Zara,927.83,2943
+P00702,Nike Arrive Clot-815,Clothing,Nike,184.34,1975
+P00703,Reebok Where Groc-859,Groceries,Reebok,707.03,1995
+P00704,Zara Half Groc-261,Groceries,Zara,661.3,3832
+P00705,Nestle Finish Toys-646,Toys,Nestle,1233.32,2014
+P00706,Samsung Nice Toys-750,Toys,Samsung,829.27,2400
+P00707,IKEA Field Home-707,Home & Kitchen,IKEA,1156.7,3343
+P00708,Nike Section Book-411,Books,Nike,387.31,2131
+P00709,Penguin List Toys-570,Toys,Penguin,409.77,193
+P00710,IKEA Director Toys-939,Toys,IKEA,39.71,4324
+P00711,L'Oreal Whole Clot-792,Clothing,L'Oreal,1015.98,4563
+P00712,Reebok Name Beau-679,Beauty,Reebok,923.53,1010
+P00713,IKEA Her Groc-151,Groceries,IKEA,263.89,4834
+P00714,Nike Life Clot-313,Clothing,Nike,20.08,38
+P00715,Adidas Something Beau-762,Beauty,Adidas,331.57,980
+P00716,Philips Thank Beau-186,Beauty,Philips,870.9,4503
+P00717,Reebok Mention Clot-177,Clothing,Reebok,1052.61,3588
+P00718,Adidas Plan Toys-299,Toys,Adidas,36.6,2765
+P00719,Nestle Likely Elec-871,Electronics,Nestle,1428.08,4681
+P00720,Samsung Value Book-988,Books,Samsung,427.01,1958
+P00721,Nestle Democratic Home-199,Home & Kitchen,Nestle,1239.53,4838
+P00722,Zara Peace Home-671,Home & Kitchen,Zara,1330.81,48
+P00723,Sony Talk Home-632,Home & Kitchen,Sony,425.04,2160
+P00724,Reebok Never Clot-902,Clothing,Reebok,616.98,3094
+P00725,Dyson Yeah Spor-518,Sports,Dyson,1214.31,2236
+P00726,Apple Smile Elec-858,Electronics,Apple,791.71,2707
+P00727,Philips Citizen Clot-770,Clothing,Philips,979.27,1905
+P00728,Adidas Experience Home-618,Home & Kitchen,Adidas,160.12,4014
+P00729,Philips Then Elec-853,Electronics,Philips,483.59,2410
+P00730,Samsung Sense Clot-348,Clothing,Samsung,716.36,1300
+P00731,Lego Girl Home-973,Home & Kitchen,Lego,1095.39,4923
+P00732,Nike Pull Beau-835,Beauty,Nike,492.81,2950
+P00733,Apple Response Spor-458,Sports,Apple,130.08,3535
+P00734,Penguin Generation Spor-604,Sports,Penguin,777.94,971
+P00735,L'Oreal Economic Toys-906,Toys,L'Oreal,1165.63,3553
+P00736,H&M Never Toys-612,Toys,H&M,415.67,3922
+P00737,H&M Themselves Clot-294,Clothing,H&M,260.05,480
+P00738,Reebok Book Clot-160,Clothing,Reebok,1331.6,4947
+P00739,Penguin House Clot-633,Clothing,Penguin,1159.68,2792
+P00740,H&M Toward Clot-200,Clothing,H&M,828.61,4306
+P00741,Philips Become Clot-223,Clothing,Philips,1240.82,435
+P00742,L'Oreal North Clot-493,Clothing,L'Oreal,73.22,1567
+P00743,Adidas Close Book-445,Books,Adidas,952.59,4850
+P00744,Apple Mention Toys-266,Toys,Apple,767.81,120
+P00745,Reebok Check Clot-377,Clothing,Reebok,1442.95,4406
+P00746,H&M Trade Clot-243,Clothing,H&M,1041.4,2757
+P00747,Adidas Resource Toys-931,Toys,Adidas,126.95,4056
+P00748,Lego Cup Toys-150,Toys,Lego,218.57,778
+P00749,Apple Southern Toys-697,Toys,Apple,274.2,4330
+P00750,H&M Myself Beau-579,Beauty,H&M,771.3,3767
+P00751,Apple Truth Clot-178,Clothing,Apple,1281.37,1628
+P00752,L'Oreal Certainly Spor-610,Sports,L'Oreal,1005.88,3634
+P00753,Penguin Leave Elec-190,Electronics,Penguin,23.86,2093
+P00754,Adidas Work Groc-101,Groceries,Adidas,1484.83,4544
+P00755,IKEA Face Elec-629,Electronics,IKEA,251.08,773
+P00756,Nike Together Spor-821,Sports,Nike,122.54,2441
+P00757,L'Oreal Catch Home-744,Home & Kitchen,L'Oreal,1329.5,756
+P00758,Sony Peace Beau-339,Beauty,Sony,36.25,2421
+P00759,Lego Hear Beau-680,Beauty,Lego,699.33,4822
+P00760,IKEA Trip Beau-915,Beauty,IKEA,494.82,3380
+P00761,L'Oreal Billion Spor-693,Sports,L'Oreal,1398.41,128
+P00762,Philips Mother Elec-193,Electronics,Philips,888.15,3438
+P00763,Adidas Gun Spor-383,Sports,Adidas,542.74,501
+P00764,Nike Crime Beau-733,Beauty,Nike,549.22,709
+P00765,Dyson Truth Spor-144,Sports,Dyson,325.63,3631
+P00766,H&M Him Toys-499,Toys,H&M,110.44,34
+P00767,Sony His Toys-208,Toys,Sony,584.67,3292
+P00768,H&M Radio Beau-523,Beauty,H&M,469.65,4411
+P00769,Reebok Manage Home-756,Home & Kitchen,Reebok,1460.94,4909
+P00770,IKEA Rich Groc-643,Groceries,IKEA,467.73,4286
+P00771,Apple Kid Clot-208,Clothing,Apple,804.15,4702
+P00772,Zara Staff Toys-243,Toys,Zara,343.34,2300
+P00773,Philips News Beau-362,Beauty,Philips,88.34,3030
+P00774,IKEA Step Groc-971,Groceries,IKEA,1386.23,4083
+P00775,IKEA Never Groc-184,Groceries,IKEA,1187.36,4675
+P00776,H&M Recently Toys-300,Toys,H&M,976.93,3307
+P00777,Samsung Shake Home-824,Home & Kitchen,Samsung,1458.11,609
+P00778,Samsung Base Toys-776,Toys,Samsung,1452.98,4785
+P00779,Nike Great Beau-588,Beauty,Nike,1104.72,1290
+P00780,Nike West Spor-739,Sports,Nike,47.71,3595
+P00781,Sony Ground Elec-921,Electronics,Sony,588.59,4317
+P00782,Adidas Perhaps Toys-937,Toys,Adidas,659.61,818
+P00783,Reebok Analysis Book-668,Books,Reebok,866.05,2832
+P00784,Sony Either Beau-836,Beauty,Sony,1384.37,417
+P00785,Nestle Argue Beau-140,Beauty,Nestle,1169.61,2999
+P00786,Nike Write Groc-946,Groceries,Nike,1344.8,1301
+P00787,Penguin Must Toys-497,Toys,Penguin,1442.3,3146
+P00788,Nike Candidate Beau-796,Beauty,Nike,645.43,3236
+P00789,Lego Paper Toys-568,Toys,Lego,147.21,3755
+P00790,Nike Land Clot-941,Clothing,Nike,182.71,319
+P00791,Samsung Should Groc-207,Groceries,Samsung,785.84,144
+P00792,Dyson Short Book-639,Books,Dyson,1153.19,1570
+P00793,Zara Together Book-532,Books,Zara,738.34,4830
+P00794,Reebok Then Home-519,Home & Kitchen,Reebok,277.71,2777
+P00795,Penguin Pressure Home-571,Home & Kitchen,Penguin,634.43,2862
+P00796,Sony Get Elec-829,Electronics,Sony,1373.91,1946
+P00797,Penguin Through Spor-992,Sports,Penguin,1238.13,4204
+P00798,Apple Floor Beau-148,Beauty,Apple,1261.5,3422
+P00799,Apple Everybody Clot-541,Clothing,Apple,1010.07,4231
+P00800,Reebok Site Spor-110,Sports,Reebok,1229.58,1672
+P00801,IKEA More Beau-264,Beauty,IKEA,891.03,4063
+P00802,Adidas Long Book-233,Books,Adidas,1240.14,1014
+P00803,Nike Impact Elec-829,Electronics,Nike,364.45,4775
+P00804,Samsung Board Spor-678,Sports,Samsung,25.46,60
+P00805,Adidas Republican Elec-601,Electronics,Adidas,1398.79,3443
+P00806,Apple Successful Book-416,Books,Apple,1251.38,4646
+P00807,Nike Ground Elec-411,Electronics,Nike,68.35,2778
+P00808,Penguin Administration Toys-853,Toys,Penguin,5.6,2883
+P00809,Apple Thank Groc-600,Groceries,Apple,60.72,4897
+P00810,Zara Section Elec-432,Electronics,Zara,917.81,1171
+P00811,Sony Sound Groc-716,Groceries,Sony,847.61,2221
+P00812,Adidas Financial Toys-504,Toys,Adidas,908.92,557
+P00813,Apple Music Clot-883,Clothing,Apple,293.38,4273
+P00814,Philips Once Toys-373,Toys,Philips,798.28,4430
+P00815,Lego Father Spor-236,Sports,Lego,615.8,3396
+P00816,Lego Pay Clot-817,Clothing,Lego,294.8,3646
+P00817,Philips Sister Groc-168,Groceries,Philips,685.84,3749
+P00818,IKEA Building Book-712,Books,IKEA,619.51,4673
+P00819,Philips Value Beau-789,Beauty,Philips,1183.93,3151
+P00820,Penguin Sell Clot-975,Clothing,Penguin,411.72,4425
+P00821,Philips Through Groc-652,Groceries,Philips,818.56,720
+P00822,Nike Gas Beau-806,Beauty,Nike,211.69,2686
+P00823,Reebok Since Home-555,Home & Kitchen,Reebok,1129.59,3869
+P00824,Penguin Allow Elec-139,Electronics,Penguin,1189.91,3870
+P00825,Philips Mrs Book-446,Books,Philips,66.2,3522
+P00826,L'Oreal Owner Home-402,Home & Kitchen,L'Oreal,1264.67,4376
+P00827,Apple Century Clot-860,Clothing,Apple,1428.93,4396
+P00828,Nestle Real Toys-628,Toys,Nestle,1441.59,3014
+P00829,Nike Especially Elec-331,Electronics,Nike,1331.27,924
+P00830,Apple Fight Spor-572,Sports,Apple,98.03,2280
+P00831,L'Oreal Investment Clot-996,Clothing,L'Oreal,256.51,829
+P00832,L'Oreal Seek Spor-956,Sports,L'Oreal,937.0,4406
+P00833,Adidas Fill Beau-665,Beauty,Adidas,1477.4,1429
+P00834,Philips Analysis Clot-418,Clothing,Philips,29.88,3198
+P00835,L'Oreal Economy Home-586,Home & Kitchen,L'Oreal,801.75,1605
+P00836,H&M Whose Book-550,Books,H&M,1390.84,1515
+P00837,Lego Go Spor-779,Sports,Lego,248.01,1861
+P00838,Samsung Agreement Spor-613,Sports,Samsung,992.95,94
+P00839,L'Oreal Life Spor-426,Sports,L'Oreal,1165.96,2538
+P00840,Dyson Worker Toys-612,Toys,Dyson,428.54,2039
+P00841,H&M Today Home-164,Home & Kitchen,H&M,1464.91,344
+P00842,L'Oreal Itself Book-715,Books,L'Oreal,583.6,3429
+P00843,Nestle Physical Clot-571,Clothing,Nestle,1204.24,1541
+P00844,Reebok Wonder Elec-583,Electronics,Reebok,851.57,24
+P00845,Sony Herself Clot-991,Clothing,Sony,1083.1,4103
+P00846,Lego Half Beau-556,Beauty,Lego,631.95,3812
+P00847,Zara Step Elec-688,Electronics,Zara,561.47,759
+P00848,Adidas He Elec-831,Electronics,Adidas,1260.73,3309
+P00849,Penguin Plant Home-594,Home & Kitchen,Penguin,1041.2,1089
+P00850,Samsung Save Clot-843,Clothing,Samsung,940.62,275
+P00851,Apple Such Home-126,Home & Kitchen,Apple,522.93,4836
+P00852,Penguin Staff Book-123,Books,Penguin,40.83,448
+P00853,L'Oreal World Beau-380,Beauty,L'Oreal,115.17,3493
+P00854,Dyson Develop Toys-343,Toys,Dyson,66.68,3066
+P00855,Philips Home Groc-260,Groceries,Philips,747.82,3553
+P00856,Reebok Traditional Home-991,Home & Kitchen,Reebok,285.13,1341
+P00857,Nestle Go Clot-426,Clothing,Nestle,813.3,1465
+P00858,Zara Movie Spor-817,Sports,Zara,37.71,1588
+P00859,Samsung Much Groc-220,Groceries,Samsung,1117.69,3916
+P00860,Sony Bank Toys-858,Toys,Sony,48.15,3738
+P00861,Samsung Town Home-787,Home & Kitchen,Samsung,1250.99,1250
+P00862,Apple Assume Beau-722,Beauty,Apple,293.97,1153
+P00863,Dyson Movement Spor-576,Sports,Dyson,1337.29,3945
+P00864,Lego Something Book-603,Books,Lego,716.39,2219
+P00865,Lego Seek Toys-986,Toys,Lego,820.2,1675
+P00866,L'Oreal Center Home-219,Home & Kitchen,L'Oreal,1451.57,2404
+P00867,IKEA Record Beau-528,Beauty,IKEA,976.05,4600
+P00868,Philips Claim Elec-598,Electronics,Philips,664.74,3901
+P00869,Lego Likely Beau-912,Beauty,Lego,520.04,2775
+P00870,Apple Leg Groc-480,Groceries,Apple,594.73,2451
+P00871,Nike Stand Book-894,Books,Nike,1044.81,1470
+P00872,IKEA Girl Beau-559,Beauty,IKEA,853.88,2173
+P00873,Apple First Toys-797,Toys,Apple,195.51,4583
+P00874,Nike Likely Book-508,Books,Nike,522.07,1503
+P00875,Philips Special Groc-312,Groceries,Philips,492.72,708
+P00876,Nestle Think Groc-643,Groceries,Nestle,592.98,2126
+P00877,L'Oreal Live Clot-391,Clothing,L'Oreal,841.88,3919
+P00878,Nestle Product Groc-407,Groceries,Nestle,670.18,3338
+P00879,Zara Model Spor-556,Sports,Zara,990.1,633
+P00880,Adidas World Elec-168,Electronics,Adidas,788.18,3594
+P00881,Nestle Mind Home-598,Home & Kitchen,Nestle,1311.13,3425
+P00882,H&M Expert Elec-519,Electronics,H&M,1002.7,4141
+P00883,Nestle Hotel Toys-783,Toys,Nestle,1073.27,2316
+P00884,Samsung Paper Home-438,Home & Kitchen,Samsung,1030.63,249
+P00885,Nestle Tv Book-647,Books,Nestle,1452.01,3304
+P00886,IKEA Couple Home-942,Home & Kitchen,IKEA,109.15,1714
+P00887,Reebok Hope Beau-516,Beauty,Reebok,499.03,4352
+P00888,H&M Federal Toys-425,Toys,H&M,1158.98,2835
+P00889,Nike Until Spor-235,Sports,Nike,100.19,587
+P00890,Sony Section Spor-633,Sports,Sony,192.4,4110
+P00891,Zara Buy Groc-148,Groceries,Zara,799.8,3523
+P00892,Penguin Card Toys-906,Toys,Penguin,166.52,2076
+P00893,H&M Director Toys-519,Toys,H&M,1212.61,839
+P00894,Samsung My Groc-919,Groceries,Samsung,1150.54,2866
+P00895,Zara Line Spor-524,Sports,Zara,697.34,876
+P00896,Penguin Choose Book-808,Books,Penguin,1301.25,1507
+P00897,L'Oreal Today Toys-179,Toys,L'Oreal,1108.25,2154
+P00898,Philips Fight Toys-483,Toys,Philips,505.59,4924
+P00899,Sony Since Book-597,Books,Sony,844.04,1602
+P00900,Nike Peace Book-488,Books,Nike,816.77,1143
+P00901,H&M Task Elec-284,Electronics,H&M,242.86,3793
+P00902,Nike Talk Clot-319,Clothing,Nike,980.49,4099
+P00903,Samsung Energy Elec-246,Electronics,Samsung,127.97,2277
+P00904,Samsung Meeting Elec-837,Electronics,Samsung,1148.34,4371
+P00905,Nestle Pick Beau-802,Beauty,Nestle,475.98,2726
+P00906,Nestle Many Book-800,Books,Nestle,731.39,2376
+P00907,IKEA Power Spor-673,Sports,IKEA,274.8,4967
+P00908,Adidas American Clot-230,Clothing,Adidas,1491.39,543
+P00909,Lego Adult Spor-499,Sports,Lego,872.31,2151
+P00910,Penguin Minute Spor-701,Sports,Penguin,771.87,81
+P00911,Lego Assume Beau-714,Beauty,Lego,776.33,4073
+P00912,IKEA See Spor-691,Sports,IKEA,1470.83,3712
+P00913,Apple Feel Book-379,Books,Apple,1136.63,3497
+P00914,Nestle Two Home-209,Home & Kitchen,Nestle,1351.55,1552
+P00915,Samsung Give Groc-740,Groceries,Samsung,219.73,2448
+P00916,H&M Walk Toys-724,Toys,H&M,790.2,2848
+P00917,Zara Himself Elec-162,Electronics,Zara,572.5,230
+P00918,Nestle Plan Beau-637,Beauty,Nestle,301.65,447
+P00919,IKEA Feel Toys-964,Toys,IKEA,641.39,3321
+P00920,Apple Officer Book-644,Books,Apple,1383.38,4835
+P00921,IKEA There Groc-374,Groceries,IKEA,405.52,2461
+P00922,Philips Force Toys-348,Toys,Philips,127.74,4341
+P00923,Reebok Outside Beau-243,Beauty,Reebok,1032.55,351
+P00924,Nestle Rise Home-413,Home & Kitchen,Nestle,880.92,4645
+P00925,Zara Since Elec-628,Electronics,Zara,142.6,655
+P00926,IKEA Keep Home-138,Home & Kitchen,IKEA,276.59,606
+P00927,Dyson Main Book-198,Books,Dyson,1481.63,4159
+P00928,Nike War Book-315,Books,Nike,578.0,2284
+P00929,Penguin Evidence Elec-397,Electronics,Penguin,1261.11,3176
+P00930,IKEA Win Book-335,Books,IKEA,735.38,10
+P00931,Nestle Serve Groc-587,Groceries,Nestle,560.81,441
+P00932,Adidas Through Elec-280,Electronics,Adidas,241.83,3530
+P00933,Nestle Walk Elec-347,Electronics,Nestle,433.96,3803
+P00934,Adidas Born Beau-264,Beauty,Adidas,642.09,2101
+P00935,Lego Least Beau-378,Beauty,Lego,1494.82,1795
+P00936,Reebok Last Clot-163,Clothing,Reebok,1226.47,1710
+P00937,Adidas Cause Home-337,Home & Kitchen,Adidas,819.4,2899
+P00938,Adidas Decade Beau-557,Beauty,Adidas,1074.29,3941
+P00939,Samsung Resource Spor-864,Sports,Samsung,536.5,2808
+P00940,Nike Organization Home-735,Home & Kitchen,Nike,637.12,2274
+P00941,Zara Growth Book-727,Books,Zara,632.24,1216
+P00942,L'Oreal Story Home-310,Home & Kitchen,L'Oreal,144.29,1115
+P00943,IKEA Know Clot-464,Clothing,IKEA,1429.2,2995
+P00944,Sony Reason Spor-731,Sports,Sony,256.75,1687
+P00945,Nestle Through Elec-656,Electronics,Nestle,183.62,909
+P00946,Philips Middle Home-894,Home & Kitchen,Philips,1153.69,3828
+P00947,Dyson Buy Elec-522,Electronics,Dyson,678.54,479
+P00948,Nestle Class Groc-951,Groceries,Nestle,931.56,1527
+P00949,L'Oreal Girl Beau-829,Beauty,L'Oreal,1228.08,2461
+P00950,Penguin Himself Groc-769,Groceries,Penguin,905.71,3588
+P00951,Nike Peace Clot-336,Clothing,Nike,1260.27,3062
+P00952,Reebok Do Toys-639,Toys,Reebok,1251.56,1727
+P00953,Dyson Gun Clot-142,Clothing,Dyson,200.11,1288
+P00954,Reebok Week Toys-402,Toys,Reebok,479.34,3516
+P00955,Zara All Spor-386,Sports,Zara,1449.76,4328
+P00956,Penguin Wonder Beau-625,Beauty,Penguin,324.51,815
+P00957,Reebok Concern Elec-686,Electronics,Reebok,26.76,2836
+P00958,Apple Standard Book-829,Books,Apple,716.96,3096
+P00959,Dyson Little Spor-291,Sports,Dyson,1044.1,3879
+P00960,Samsung Lawyer Book-958,Books,Samsung,285.03,581
+P00961,Lego Likely Home-413,Home & Kitchen,Lego,280.46,54
+P00962,Adidas Everyone Home-662,Home & Kitchen,Adidas,1172.95,1330
+P00963,Nestle Probably Elec-355,Electronics,Nestle,654.87,3392
+P00964,Zara Similar Beau-605,Beauty,Zara,67.57,2563
+P00965,Sony Strong Elec-851,Electronics,Sony,1026.48,958
+P00966,Dyson Against Toys-745,Toys,Dyson,1226.93,1807
+P00967,Penguin How Spor-523,Sports,Penguin,219.59,4760
+P00968,Reebok Fish Book-127,Books,Reebok,262.37,633
+P00969,Philips Candidate Clot-620,Clothing,Philips,710.02,361
+P00970,Samsung Stay Elec-650,Electronics,Samsung,1308.65,1464
+P00971,Samsung Clear Home-467,Home & Kitchen,Samsung,357.5,1366
+P00972,Apple Which Elec-700,Electronics,Apple,356.37,2943
+P00973,Reebok Stand Toys-150,Toys,Reebok,796.05,4328
+P00974,L'Oreal Claim Elec-534,Electronics,L'Oreal,577.53,3661
+P00975,H&M Military Clot-969,Clothing,H&M,28.18,754
+P00976,Nestle Choose Beau-984,Beauty,Nestle,807.12,2159
+P00977,H&M Respond Groc-460,Groceries,H&M,1345.9,816
+P00978,Philips Meeting Clot-598,Clothing,Philips,291.21,360
+P00979,Lego Industry Toys-431,Toys,Lego,92.13,3300
+P00980,Nestle Herself Book-834,Books,Nestle,647.25,317
+P00981,Nestle Decade Home-301,Home & Kitchen,Nestle,186.06,162
+P00982,H&M Support Spor-456,Sports,H&M,84.53,2501
+P00983,Samsung At Book-503,Books,Samsung,1234.35,1632
+P00984,Sony Year Home-574,Home & Kitchen,Sony,1177.96,498
+P00985,IKEA Fear Book-964,Books,IKEA,1361.88,721
+P00986,Zara Technology Toys-933,Toys,Zara,389.45,2571
+P00987,Philips Hold Toys-406,Toys,Philips,575.47,3405
+P00988,Nestle Budget Toys-506,Toys,Nestle,1161.0,2083
+P00989,Zara Rule Toys-977,Toys,Zara,1407.18,2277
+P00990,Sony Product Home-617,Home & Kitchen,Sony,460.98,142
+P00991,Philips Defense Elec-955,Electronics,Philips,25.19,898
+P00992,Reebok Fact Spor-554,Sports,Reebok,398.31,3664
+P00993,Nestle Board Beau-849,Beauty,Nestle,150.93,3888
+P00994,Apple Model Spor-931,Sports,Apple,271.54,1478
+P00995,Penguin What Home-967,Home & Kitchen,Penguin,1086.68,4441
+P00996,Adidas Woman Spor-592,Sports,Adidas,644.1,1347
+P00997,H&M Public Home-314,Home & Kitchen,H&M,1082.4,2200
+P00998,Samsung Tell Book-218,Books,Samsung,516.75,971
+P00999,Nestle Appear Groc-514,Groceries,Nestle,556.76,4415
+P01000,H&M Arrive Toys-547,Toys,H&M,122.36,413
+P01001,Samsung Group Elec-459,Electronics,Samsung,899.68,1004
+P01002,IKEA Fear Toys-759,Toys,IKEA,1098.93,4092
+P01003,Zara His Spor-320,Sports,Zara,940.11,1688
+P01004,Apple Great Beau-780,Beauty,Apple,868.95,2336
+P01005,IKEA Only Elec-504,Electronics,IKEA,1455.92,3185
+P01006,Nike Effect Spor-427,Sports,Nike,1455.35,2847
+P01007,Dyson Street Book-638,Books,Dyson,76.51,154
+P01008,Penguin Figure Groc-610,Groceries,Penguin,1159.61,3775
+P01009,Nike Head Book-806,Books,Nike,321.92,4169
+P01010,Sony Heart Spor-841,Sports,Sony,829.58,1577
+P01011,Samsung Prevent Groc-781,Groceries,Samsung,1114.27,2300
+P01012,L'Oreal Great Beau-497,Beauty,L'Oreal,806.3,2618
+P01013,Nike View Elec-783,Electronics,Nike,301.06,4437
+P01014,Adidas Then Clot-618,Clothing,Adidas,553.46,2443
+P01015,Apple Himself Clot-416,Clothing,Apple,269.55,1849
+P01016,Lego Wind Home-857,Home & Kitchen,Lego,423.33,2647
+P01017,Samsung Learn Groc-167,Groceries,Samsung,707.54,3676
+P01018,Adidas Suddenly Spor-961,Sports,Adidas,1306.29,311
+P01019,Samsung Culture Clot-532,Clothing,Samsung,545.21,3290
+P01020,Penguin Can Elec-401,Electronics,Penguin,1185.95,4628
+P01021,Nike Language Groc-288,Groceries,Nike,712.1,1908
+P01022,Dyson Open Clot-138,Clothing,Dyson,803.32,3179
+P01023,Dyson Record Home-763,Home & Kitchen,Dyson,723.33,2568
+P01024,H&M Difficult Toys-893,Toys,H&M,1386.76,4897
+P01025,Lego Democrat Elec-811,Electronics,Lego,37.93,948
+P01026,Zara Hotel Toys-940,Toys,Zara,585.36,2944
+P01027,Lego Study Toys-984,Toys,Lego,1261.97,695
+P01028,Apple Without Home-691,Home & Kitchen,Apple,198.84,712
+P01029,Nestle Really Elec-420,Electronics,Nestle,756.47,2492
+P01030,Penguin Member Spor-675,Sports,Penguin,1214.28,183
+P01031,Penguin Scene Groc-328,Groceries,Penguin,1483.0,3091
+P01032,Nike Traditional Spor-368,Sports,Nike,869.48,1102
+P01033,Zara South Toys-196,Toys,Zara,776.42,3311
+P01034,Dyson Join Clot-586,Clothing,Dyson,483.04,3233
+P01035,Adidas Join Toys-356,Toys,Adidas,1352.55,2251
+P01036,Philips Mr Toys-386,Toys,Philips,1002.91,1389
+P01037,Samsung Arm Home-526,Home & Kitchen,Samsung,1214.77,4651
+P01038,Penguin Opportunity Home-892,Home & Kitchen,Penguin,517.96,1971
+P01039,Samsung Tend Elec-302,Electronics,Samsung,1200.63,2864
+P01040,Dyson Stay Elec-819,Electronics,Dyson,1063.4,3768
+P01041,Lego Position Book-741,Books,Lego,1478.82,2012
+P01042,Sony Heart Beau-396,Beauty,Sony,927.56,321
+P01043,H&M Son Book-338,Books,H&M,438.93,4567
+P01044,Philips Account Spor-187,Sports,Philips,1341.0,1527
+P01045,Sony Fish Groc-267,Groceries,Sony,1403.98,3624
+P01046,L'Oreal Suggest Spor-148,Sports,L'Oreal,747.56,1539
+P01047,Apple Six Home-180,Home & Kitchen,Apple,1408.59,728
+P01048,Dyson Partner Toys-585,Toys,Dyson,133.6,4022
+P01049,Dyson Benefit Groc-196,Groceries,Dyson,183.2,1850
+P01050,Samsung All Beau-278,Beauty,Samsung,84.63,4025
+P01051,Lego Morning Spor-167,Sports,Lego,749.66,2616
+P01052,Reebok Key Groc-367,Groceries,Reebok,162.69,543
+P01053,Dyson Song Beau-641,Beauty,Dyson,13.61,509
+P01054,Reebok Series Elec-115,Electronics,Reebok,1315.32,739
+P01055,Adidas Approach Spor-160,Sports,Adidas,1251.1,1380
+P01056,L'Oreal Finally Clot-944,Clothing,L'Oreal,823.58,150
+P01057,Philips Deep Beau-108,Beauty,Philips,124.13,2025
+P01058,Nike Base Home-463,Home & Kitchen,Nike,992.44,4575
+P01059,Zara Matter Clot-253,Clothing,Zara,701.77,4030
+P01060,L'Oreal Behavior Home-395,Home & Kitchen,L'Oreal,378.45,3672
+P01061,L'Oreal Hospital Toys-430,Toys,L'Oreal,569.23,4241
+P01062,Lego Whether Beau-674,Beauty,Lego,862.24,808
+P01063,Philips Girl Book-804,Books,Philips,954.71,1606
+P01064,Philips Response Spor-506,Sports,Philips,1416.29,3630
+P01065,Nestle Market Beau-145,Beauty,Nestle,1396.05,4837
+P01066,L'Oreal Operation Clot-627,Clothing,L'Oreal,694.76,972
+P01067,Sony Full Home-789,Home & Kitchen,Sony,915.4,122
+P01068,Adidas Space Spor-634,Sports,Adidas,1332.55,3079
+P01069,Lego Cold Book-224,Books,Lego,852.0,4380
+P01070,Apple Better Toys-172,Toys,Apple,207.74,3302
+P01071,Dyson Process Toys-731,Toys,Dyson,872.5,3154
+P01072,Sony Serious Home-834,Home & Kitchen,Sony,1467.23,3711
+P01073,Dyson Particular Elec-958,Electronics,Dyson,756.03,3476
+P01074,Penguin Loss Toys-566,Toys,Penguin,1380.73,2428
+P01075,Penguin Past Toys-960,Toys,Penguin,897.72,3623
+P01076,Zara Each Book-575,Books,Zara,738.2,3951
+P01077,Sony Dog Spor-781,Sports,Sony,1189.47,4153
+P01078,Samsung Include Elec-573,Electronics,Samsung,480.55,3370
+P01079,Adidas Only Home-771,Home & Kitchen,Adidas,1097.84,3890
+P01080,H&M Identify Spor-329,Sports,H&M,851.06,2285
+P01081,Reebok Very Groc-389,Groceries,Reebok,1038.35,1439
+P01082,Nestle Any Toys-675,Toys,Nestle,752.65,2767
+P01083,Samsung Start Groc-557,Groceries,Samsung,372.59,4461
+P01084,L'Oreal Writer Book-960,Books,L'Oreal,606.94,2944
+P01085,Nike Power Home-570,Home & Kitchen,Nike,1492.5,1721
+P01086,Nike Rest Home-354,Home & Kitchen,Nike,330.68,2721
+P01087,Dyson Eight Groc-673,Groceries,Dyson,877.75,4160
+P01088,IKEA Truth Elec-831,Electronics,IKEA,1164.71,1281
+P01089,Penguin Authority Book-895,Books,Penguin,1128.99,4095
+P01090,Zara Relate Toys-874,Toys,Zara,330.89,4194
+P01091,Nestle Response Spor-933,Sports,Nestle,1027.09,3593
+P01092,H&M Kitchen Clot-811,Clothing,H&M,1010.09,83
+P01093,IKEA Also Toys-292,Toys,IKEA,1029.05,680
+P01094,Sony Need Book-388,Books,Sony,341.14,2511
+P01095,Zara Parent Beau-180,Beauty,Zara,846.62,4030
+P01096,Philips Use Beau-970,Beauty,Philips,683.91,4472
+P01097,Apple National Beau-860,Beauty,Apple,598.51,1016
+P01098,Sony Move Clot-550,Clothing,Sony,1132.93,1297
+P01099,Zara Office Beau-641,Beauty,Zara,948.69,4798
+P01100,Adidas Hard Toys-362,Toys,Adidas,307.04,3061
+P01101,Zara Race Elec-356,Electronics,Zara,161.02,1157
+P01102,Nestle Respond Toys-282,Toys,Nestle,402.65,4140
+P01103,IKEA Ago Toys-673,Toys,IKEA,998.76,465
+P01104,Philips Behavior Clot-830,Clothing,Philips,373.65,827
+P01105,H&M Along Book-973,Books,H&M,600.2,3676
+P01106,Nike Home Elec-793,Electronics,Nike,1299.32,627
+P01107,Nike Hot Groc-575,Groceries,Nike,171.23,2193
+P01108,Sony Street Book-724,Books,Sony,860.53,4903
+P01109,Sony Sound Home-146,Home & Kitchen,Sony,717.1,643
+P01110,IKEA Old Elec-276,Electronics,IKEA,122.75,857
+P01111,Samsung Debate Toys-420,Toys,Samsung,57.24,2559
+P01112,Nike Picture Toys-988,Toys,Nike,1385.59,736
+P01113,Adidas Bar Groc-402,Groceries,Adidas,139.39,3952
+P01114,Philips Better Beau-190,Beauty,Philips,421.83,2829
+P01115,L'Oreal Box Book-435,Books,L'Oreal,133.4,1501
+P01116,H&M Hope Spor-311,Sports,H&M,1400.73,2787
+P01117,Zara Thought Book-176,Books,Zara,625.46,2471
+P01118,Penguin Democratic Clot-771,Clothing,Penguin,618.93,1584
+P01119,Sony Consumer Elec-301,Electronics,Sony,575.85,1906
+P01120,Sony Animal Toys-415,Toys,Sony,765.9,2726
+P01121,Samsung Color Elec-557,Electronics,Samsung,1406.17,2145
+P01122,Penguin Into Spor-283,Sports,Penguin,1349.45,2597
+P01123,Nike Feel Elec-680,Electronics,Nike,136.0,2997
+P01124,Lego Anything Spor-365,Sports,Lego,694.23,3218
+P01125,Zara Alone Toys-537,Toys,Zara,1267.03,3931
+P01126,Apple Popular Groc-740,Groceries,Apple,153.12,1703
+P01127,Nike Section Beau-416,Beauty,Nike,1196.14,1226
+P01128,H&M Customer Beau-382,Beauty,H&M,823.59,3548
+P01129,Reebok Rich Beau-697,Beauty,Reebok,101.91,2591
+P01130,Penguin Resource Spor-125,Sports,Penguin,858.25,2174
+P01131,Penguin Similar Spor-852,Sports,Penguin,1136.54,4265
+P01132,Samsung Economy Beau-487,Beauty,Samsung,1407.64,4903
+P01133,Zara Second Home-828,Home & Kitchen,Zara,389.95,3309
+P01134,Nike Director Book-898,Books,Nike,1356.82,1186
+P01135,Nike Yeah Groc-150,Groceries,Nike,56.63,4774
+P01136,H&M Own Clot-277,Clothing,H&M,646.74,2295
+P01137,Apple Lead Spor-371,Sports,Apple,1135.72,211
+P01138,Zara Eight Clot-920,Clothing,Zara,241.55,140
+P01139,Samsung Money Book-720,Books,Samsung,147.11,3139
+P01140,Adidas People Spor-680,Sports,Adidas,1015.82,1240
+P01141,H&M And Spor-919,Sports,H&M,589.59,2603
+P01142,IKEA Crime Spor-992,Sports,IKEA,830.84,2959
+P01143,Sony Where Groc-904,Groceries,Sony,183.98,4976
+P01144,Sony Able Home-400,Home & Kitchen,Sony,1468.01,885
+P01145,Apple Reduce Home-887,Home & Kitchen,Apple,1117.25,1735
+P01146,Philips Relationship Elec-127,Electronics,Philips,644.27,1957
+P01147,Apple Visit Clot-316,Clothing,Apple,1367.57,1392
+P01148,Penguin Eat Beau-218,Beauty,Penguin,624.57,4673
+P01149,Nestle Of Clot-560,Clothing,Nestle,602.96,4694
+P01150,Samsung Opportunity Toys-603,Toys,Samsung,932.14,699
+P01151,Nestle Provide Clot-244,Clothing,Nestle,921.33,1223
+P01152,Adidas Line Spor-820,Sports,Adidas,492.77,1006
+P01153,Sony Natural Spor-314,Sports,Sony,545.25,674
+P01154,Adidas Condition Book-460,Books,Adidas,650.49,4451
+P01155,Sony Yet Groc-240,Groceries,Sony,1078.93,2900
+P01156,Reebok Real Elec-379,Electronics,Reebok,1079.51,229
+P01157,Nike At Beau-372,Beauty,Nike,1191.08,4066
+P01158,Reebok Opportunity Clot-952,Clothing,Reebok,646.51,1358
+P01159,Nike No Home-649,Home & Kitchen,Nike,977.53,2377
+P01160,Lego Possible Beau-660,Beauty,Lego,245.76,792
+P01161,Adidas Development Toys-484,Toys,Adidas,199.6,3999
+P01162,Adidas News Elec-635,Electronics,Adidas,649.85,2333
+P01163,Philips Finish Groc-336,Groceries,Philips,216.55,1330
+P01164,Philips Federal Spor-242,Sports,Philips,1437.2,2066
+P01165,H&M Wrong Home-543,Home & Kitchen,H&M,303.92,4556
+P01166,Lego Listen Spor-624,Sports,Lego,1120.44,1298
+P01167,L'Oreal Nature Book-206,Books,L'Oreal,443.93,1117
+P01168,H&M Bit Groc-654,Groceries,H&M,423.76,2844
+P01169,L'Oreal Soldier Elec-364,Electronics,L'Oreal,701.06,739
+P01170,Lego Something Groc-419,Groceries,Lego,326.16,2202
+P01171,Samsung Itself Clot-452,Clothing,Samsung,690.06,2453
+P01172,Lego Spring Elec-807,Electronics,Lego,485.99,2865
+P01173,IKEA Local Spor-692,Sports,IKEA,373.84,1050
+P01174,L'Oreal Lay Beau-955,Beauty,L'Oreal,406.58,4404
+P01175,L'Oreal International Spor-844,Sports,L'Oreal,564.43,4724
+P01176,Penguin Energy Book-105,Books,Penguin,1131.46,4945
+P01177,Nestle Small Groc-425,Groceries,Nestle,1383.52,2161
+P01178,IKEA Us Groc-834,Groceries,IKEA,817.89,990
+P01179,Dyson Explain Book-561,Books,Dyson,46.24,3505
+P01180,IKEA Up Toys-454,Toys,IKEA,1188.59,4
+P01181,Sony Threat Clot-539,Clothing,Sony,1408.59,1533
+P01182,L'Oreal Summer Elec-299,Electronics,L'Oreal,990.76,3674
+P01183,Nike Central Groc-365,Groceries,Nike,920.87,2336
+P01184,IKEA Single Groc-388,Groceries,IKEA,779.39,4787
+P01185,Lego Across Home-219,Home & Kitchen,Lego,525.99,4250
+P01186,Samsung Of Spor-430,Sports,Samsung,1128.45,4501
+P01187,Sony Early Home-152,Home & Kitchen,Sony,1290.78,4584
+P01188,Apple Firm Elec-279,Electronics,Apple,36.88,3882
+P01189,Zara Music Elec-613,Electronics,Zara,774.05,1494
+P01190,Samsung Scene Home-694,Home & Kitchen,Samsung,1241.63,2919
+P01191,Dyson Best Home-217,Home & Kitchen,Dyson,10.84,4860
+P01192,Reebok Cultural Beau-247,Beauty,Reebok,297.31,2830
+P01193,Nestle Financial Beau-678,Beauty,Nestle,127.58,406
+P01194,Nestle Cultural Home-986,Home & Kitchen,Nestle,1168.92,1070
+P01195,IKEA Situation Elec-422,Electronics,IKEA,134.93,126
+P01196,IKEA Space Home-590,Home & Kitchen,IKEA,898.53,1115
+P01197,H&M Interview Book-574,Books,H&M,860.39,4674
+P01198,Penguin Learn Spor-907,Sports,Penguin,920.47,2053
+P01199,IKEA Final Spor-541,Sports,IKEA,1185.85,1900
+P01200,H&M Medical Home-274,Home & Kitchen,H&M,452.97,4513
+P01201,H&M Fall Elec-764,Electronics,H&M,704.33,263
+P01202,Adidas Church Elec-592,Electronics,Adidas,1159.42,852
+P01203,Nike Should Groc-905,Groceries,Nike,523.99,3111
+P01204,IKEA Team Book-400,Books,IKEA,574.92,4147
+P01205,H&M Itself Book-689,Books,H&M,246.66,409
+P01206,Nike Food Book-466,Books,Nike,130.96,1530
+P01207,Dyson Face Home-980,Home & Kitchen,Dyson,767.78,3139
+P01208,Samsung Thus Elec-686,Electronics,Samsung,877.14,3741
+P01209,Zara All Beau-387,Beauty,Zara,1377.89,842
+P01210,Nike Even Groc-482,Groceries,Nike,1488.64,511
+P01211,Lego Major Spor-402,Sports,Lego,1250.06,4102
+P01212,Adidas Raise Groc-582,Groceries,Adidas,193.11,2817
+P01213,Reebok Operation Elec-208,Electronics,Reebok,223.25,4933
+P01214,Apple Daughter Toys-385,Toys,Apple,784.09,1669
+P01215,Reebok Space Beau-334,Beauty,Reebok,1049.47,4623
+P01216,Apple Return Groc-776,Groceries,Apple,642.44,4016
+P01217,Penguin Southern Clot-419,Clothing,Penguin,1466.87,1508
+P01218,Dyson Compare Book-735,Books,Dyson,1385.06,4873
+P01219,Reebok Sort Book-596,Books,Reebok,127.16,4763
+P01220,Nestle Miss Beau-787,Beauty,Nestle,1304.95,4068
+P01221,Samsung Place Elec-578,Electronics,Samsung,1477.39,4916
+P01222,Sony Tend Clot-759,Clothing,Sony,1058.61,385
+P01223,Penguin Leader Spor-293,Sports,Penguin,332.32,1824
+P01224,Zara Investment Book-252,Books,Zara,176.03,3851
+P01225,Adidas Education Home-372,Home & Kitchen,Adidas,21.44,2772
+P01226,Penguin Letter Clot-428,Clothing,Penguin,801.95,4450
+P01227,Lego Phone Toys-353,Toys,Lego,1227.94,902
+P01228,Dyson Still Beau-326,Beauty,Dyson,815.24,462
+P01229,Nike Rather Toys-165,Toys,Nike,517.55,1194
+P01230,Nike Generation Clot-964,Clothing,Nike,1350.4,4275
+P01231,Zara National Book-362,Books,Zara,898.12,939
+P01232,Sony Better Home-827,Home & Kitchen,Sony,582.67,4756
+P01233,Nike Result Book-587,Books,Nike,311.9,3226
+P01234,Lego Room Toys-412,Toys,Lego,825.32,2282
+P01235,Nike Often Spor-323,Sports,Nike,1184.57,2161
+P01236,Reebok Matter Elec-862,Electronics,Reebok,5.91,760
+P01237,Philips Life Elec-219,Electronics,Philips,1239.53,39
+P01238,Adidas Thank Toys-668,Toys,Adidas,251.11,2242
+P01239,Adidas Top Beau-262,Beauty,Adidas,579.73,2175
+P01240,Nike Five Book-782,Books,Nike,773.18,4104
+P01241,Dyson Explain Clot-693,Clothing,Dyson,733.23,2706
+P01242,Nike Poor Book-560,Books,Nike,899.17,2837
+P01243,H&M Our Beau-344,Beauty,H&M,604.05,4571
+P01244,Philips Concern Elec-756,Electronics,Philips,1347.84,2209
+P01245,Zara Foreign Book-830,Books,Zara,388.56,4869
+P01246,Samsung Important Spor-390,Sports,Samsung,927.43,404
+P01247,Zara New Elec-999,Electronics,Zara,108.85,47
+P01248,Zara Like Toys-433,Toys,Zara,604.08,4431
+P01249,Zara Record Clot-648,Clothing,Zara,1053.76,1541
+P01250,Nike Behavior Spor-507,Sports,Nike,708.59,1379
+P01251,Reebok Follow Toys-494,Toys,Reebok,435.64,1946
+P01252,Nestle Work Elec-455,Electronics,Nestle,9.35,4619
+P01253,Dyson Even Elec-540,Electronics,Dyson,420.73,4226
+P01254,Samsung If Clot-484,Clothing,Samsung,673.88,470
+P01255,Nestle Team Clot-738,Clothing,Nestle,566.88,802
+P01256,Reebok Poor Elec-923,Electronics,Reebok,1489.21,4958
+P01257,H&M Director Home-959,Home & Kitchen,H&M,43.08,3133
+P01258,Adidas Student Book-841,Books,Adidas,750.68,4744
+P01259,Penguin Outside Beau-807,Beauty,Penguin,539.26,4366
+P01260,Zara Practice Spor-292,Sports,Zara,132.21,2984
+P01261,Lego Score Toys-850,Toys,Lego,1076.63,2097
+P01262,L'Oreal Good Spor-573,Sports,L'Oreal,1433.4,868
+P01263,Reebok Enjoy Home-520,Home & Kitchen,Reebok,778.22,4210
+P01264,Samsung Best Clot-580,Clothing,Samsung,943.44,4570
+P01265,Sony Take Toys-742,Toys,Sony,1009.07,1440
+P01266,Nike General Elec-712,Electronics,Nike,699.19,1785
+P01267,Nestle Give Elec-742,Electronics,Nestle,1165.88,988
+P01268,Sony System Groc-533,Groceries,Sony,197.22,1415
+P01269,Penguin Leave Book-643,Books,Penguin,818.68,695
+P01270,IKEA International Clot-855,Clothing,IKEA,662.6,3429
+P01271,Philips Foreign Clot-471,Clothing,Philips,1277.67,4468
+P01272,Nestle Ready Elec-614,Electronics,Nestle,1290.18,2548
+P01273,L'Oreal Charge Home-498,Home & Kitchen,L'Oreal,705.09,159
+P01274,L'Oreal Deal Elec-990,Electronics,L'Oreal,989.38,1138
+P01275,Zara Possible Book-554,Books,Zara,1323.13,2585
+P01276,Nike Family Groc-288,Groceries,Nike,511.21,2443
+P01277,Apple Action Book-408,Books,Apple,1197.14,3608
+P01278,Nike Year Book-709,Books,Nike,589.45,2082
+P01279,H&M Claim Elec-168,Electronics,H&M,1479.6,2167
+P01280,Sony Produce Elec-999,Electronics,Sony,883.26,175
+P01281,L'Oreal Human Book-760,Books,L'Oreal,454.54,4681
+P01282,IKEA Structure Toys-764,Toys,IKEA,1116.58,3064
+P01283,H&M Student Home-212,Home & Kitchen,H&M,634.39,2016
+P01284,H&M Past Groc-894,Groceries,H&M,1426.55,1778
+P01285,Nestle Song Elec-513,Electronics,Nestle,588.6,3295
+P01286,Penguin Activity Groc-818,Groceries,Penguin,231.85,2103
+P01287,IKEA Throw Beau-114,Beauty,IKEA,1451.2,1971
+P01288,H&M One Clot-884,Clothing,H&M,484.53,4826
+P01289,Samsung Wrong Groc-514,Groceries,Samsung,1381.99,2843
+P01290,Nike Other Clot-234,Clothing,Nike,419.78,478
+P01291,Nestle Support Groc-663,Groceries,Nestle,354.5,1832
+P01292,Samsung How Book-791,Books,Samsung,1197.15,3453
+P01293,H&M Executive Elec-205,Electronics,H&M,855.38,1198
+P01294,Nike Space Groc-882,Groceries,Nike,1165.75,3400
+P01295,Adidas Perform Home-977,Home & Kitchen,Adidas,1362.15,1875
+P01296,IKEA Important Book-529,Books,IKEA,6.82,3777
+P01297,IKEA In Groc-979,Groceries,IKEA,627.89,2750
+P01298,H&M Kid Clot-308,Clothing,H&M,195.11,3560
+P01299,Adidas Region Clot-443,Clothing,Adidas,985.24,2129
+P01300,H&M System Home-563,Home & Kitchen,H&M,1381.02,44
+P01301,Dyson Natural Clot-961,Clothing,Dyson,828.5,1751
+P01302,Dyson Attack Spor-893,Sports,Dyson,1272.48,470
+P01303,IKEA Watch Elec-432,Electronics,IKEA,1294.04,1824
+P01304,L'Oreal Campaign Elec-949,Electronics,L'Oreal,1496.25,3269
+P01305,Sony Recently Groc-416,Groceries,Sony,30.51,3712
+P01306,Apple Note Clot-889,Clothing,Apple,1483.72,3049
+P01307,Adidas Court Spor-215,Sports,Adidas,1141.45,2786
+P01308,L'Oreal Those Toys-813,Toys,L'Oreal,763.09,2652
+P01309,IKEA Chair Toys-960,Toys,IKEA,1407.89,4551
+P01310,Penguin Part Groc-297,Groceries,Penguin,1031.22,4170
+P01311,Apple Station Beau-968,Beauty,Apple,359.0,3102
+P01312,Zara Street Beau-254,Beauty,Zara,170.57,1229
+P01313,L'Oreal Child Toys-472,Toys,L'Oreal,1427.09,3824
+P01314,Lego Eight Clot-493,Clothing,Lego,295.18,1714
+P01315,Adidas Red Elec-235,Electronics,Adidas,245.66,3555
+P01316,Nestle Sport Elec-103,Electronics,Nestle,147.99,1277
+P01317,H&M Rate Clot-817,Clothing,H&M,1236.33,2739
+P01318,Nestle Professor Book-369,Books,Nestle,1453.49,717
+P01319,Reebok Upon Home-871,Home & Kitchen,Reebok,554.67,1461
+P01320,Apple Race Clot-659,Clothing,Apple,289.69,1597
+P01321,Samsung Century Beau-975,Beauty,Samsung,978.86,3843
+P01322,Zara Exactly Clot-411,Clothing,Zara,402.89,2800
+P01323,Philips Identify Book-584,Books,Philips,1343.77,3180
+P01324,IKEA Opportunity Toys-452,Toys,IKEA,306.43,3697
+P01325,Nike Military Clot-597,Clothing,Nike,188.64,1116
+P01326,Adidas Certain Elec-412,Electronics,Adidas,1462.87,3928
+P01327,Nike Cultural Beau-747,Beauty,Nike,1469.36,3640
+P01328,Lego Weight Book-452,Books,Lego,1469.33,1414
+P01329,Samsung Area Spor-148,Sports,Samsung,1402.79,1514
+P01330,IKEA Draw Beau-232,Beauty,IKEA,350.29,3687
+P01331,Lego Manage Clot-494,Clothing,Lego,470.1,1779
+P01332,Sony Despite Spor-918,Sports,Sony,1279.52,2913
+P01333,Reebok Drug Clot-713,Clothing,Reebok,935.73,3699
+P01334,Philips Mention Home-167,Home & Kitchen,Philips,103.75,2594
+P01335,Zara Seat Home-265,Home & Kitchen,Zara,665.68,71
+P01336,Sony Open Spor-156,Sports,Sony,635.39,3859
+P01337,Dyson Staff Toys-362,Toys,Dyson,192.89,955
+P01338,Nestle Expect Clot-877,Clothing,Nestle,1253.24,2011
+P01339,Samsung Argue Clot-179,Clothing,Samsung,64.97,939
+P01340,Dyson Impact Elec-884,Electronics,Dyson,397.29,293
+P01341,H&M Republican Elec-439,Electronics,H&M,282.97,383
+P01342,Zara Seem Beau-448,Beauty,Zara,1242.93,3420
+P01343,Sony Attack Toys-454,Toys,Sony,137.96,1640
+P01344,Adidas Democrat Book-583,Books,Adidas,1030.03,1487
+P01345,Nestle Myself Home-891,Home & Kitchen,Nestle,1060.49,4336
+P01346,H&M Job Spor-687,Sports,H&M,1359.22,4918
+P01347,IKEA Million Elec-448,Electronics,IKEA,1184.9,1485
+P01348,L'Oreal Wide Beau-641,Beauty,L'Oreal,817.97,182
+P01349,Reebok Fish Groc-519,Groceries,Reebok,899.85,3569
+P01350,Nestle Seat Book-584,Books,Nestle,1192.55,2576
+P01351,Adidas Use Beau-685,Beauty,Adidas,531.99,4883
+P01352,Apple Near Home-680,Home & Kitchen,Apple,154.51,3470
+P01353,Reebok General Spor-174,Sports,Reebok,253.45,2420
+P01354,Dyson Mission Book-342,Books,Dyson,392.45,2143
+P01355,Nike More Clot-515,Clothing,Nike,55.91,4172
+P01356,Dyson Election Beau-925,Beauty,Dyson,700.9,987
+P01357,IKEA Approach Home-267,Home & Kitchen,IKEA,324.15,2183
+P01358,Dyson Without Beau-686,Beauty,Dyson,1198.48,2280
+P01359,Reebok Evidence Groc-923,Groceries,Reebok,1003.13,2474
+P01360,Apple Store Beau-463,Beauty,Apple,1178.81,3236
+P01361,L'Oreal Girl Beau-436,Beauty,L'Oreal,125.15,2150
+P01362,Nike Generation Home-744,Home & Kitchen,Nike,555.12,1150
+P01363,L'Oreal Pattern Clot-235,Clothing,L'Oreal,572.24,454
+P01364,Nike Image Groc-324,Groceries,Nike,308.45,4745
+P01365,L'Oreal Rich Clot-339,Clothing,L'Oreal,1355.77,1062
+P01366,Lego Such Groc-904,Groceries,Lego,426.02,3248
+P01367,Reebok White Clot-235,Clothing,Reebok,321.27,4924
+P01368,Penguin Visit Book-370,Books,Penguin,553.53,1206
+P01369,Sony Gas Book-684,Books,Sony,1168.52,1703
+P01370,IKEA Republican Groc-958,Groceries,IKEA,1445.93,3385
+P01371,Nestle Stand Groc-753,Groceries,Nestle,1291.76,1783
+P01372,Zara Listen Elec-792,Electronics,Zara,693.98,216
+P01373,H&M Recognize Spor-726,Sports,H&M,919.73,1751
+P01374,Lego Inside Beau-672,Beauty,Lego,595.72,416
+P01375,Penguin Reach Groc-317,Groceries,Penguin,846.92,4910
+P01376,Reebok Ten Clot-775,Clothing,Reebok,1175.82,4769
+P01377,Apple Reflect Spor-261,Sports,Apple,777.9,4623
+P01378,Apple Whom Clot-960,Clothing,Apple,1083.23,2625
+P01379,Nestle Street Elec-341,Electronics,Nestle,935.49,2485
+P01380,Penguin Hot Book-111,Books,Penguin,548.04,3204
+P01381,Penguin That Clot-196,Clothing,Penguin,1028.6,2171
+P01382,IKEA Suddenly Toys-571,Toys,IKEA,1453.92,2733
+P01383,Reebok Magazine Toys-749,Toys,Reebok,613.43,584
+P01384,Philips Morning Groc-823,Groceries,Philips,1131.53,1327
+P01385,Philips Image Groc-832,Groceries,Philips,269.83,1884
+P01386,Philips Or Clot-412,Clothing,Philips,407.34,2970
+P01387,H&M Research Toys-945,Toys,H&M,1479.6,682
+P01388,Zara Able Beau-716,Beauty,Zara,681.32,1667
+P01389,Nike Arm Elec-403,Electronics,Nike,393.08,1740
+P01390,Apple Various Spor-367,Sports,Apple,485.55,2325
+P01391,Reebok Head Book-103,Books,Reebok,138.43,1165
+P01392,Nike Green Home-731,Home & Kitchen,Nike,1461.29,4269
+P01393,Apple Audience Beau-202,Beauty,Apple,310.68,1049
+P01394,Penguin To Elec-997,Electronics,Penguin,911.91,458
+P01395,Samsung Simple Spor-679,Sports,Samsung,1053.59,1518
+P01396,Sony Catch Home-140,Home & Kitchen,Sony,251.55,2529
+P01397,Reebok Whom Clot-611,Clothing,Reebok,642.94,4850
+P01398,Samsung Individual Groc-939,Groceries,Samsung,1199.08,3308
+P01399,Sony Public Spor-660,Sports,Sony,242.55,1348
+P01400,Sony Smile Toys-518,Toys,Sony,675.3,494
+P01401,Dyson Measure Elec-107,Electronics,Dyson,899.5,3939
+P01402,Adidas Reach Groc-435,Groceries,Adidas,1037.74,2405
+P01403,IKEA Language Toys-474,Toys,IKEA,1000.26,4896
+P01404,Zara Every Book-118,Books,Zara,1097.42,1156
+P01405,Adidas Purpose Clot-472,Clothing,Adidas,501.95,1547
+P01406,Nike Especially Elec-265,Electronics,Nike,510.45,2068
+P01407,Lego Yeah Spor-846,Sports,Lego,391.38,3518
+P01408,Nestle Play Spor-163,Sports,Nestle,642.14,2689
+P01409,L'Oreal Everything Toys-397,Toys,L'Oreal,39.18,707
+P01410,Apple Difficult Beau-279,Beauty,Apple,279.29,606
+P01411,Philips Join Beau-921,Beauty,Philips,499.06,4045
+P01412,Samsung Whole Home-981,Home & Kitchen,Samsung,523.76,2623
+P01413,IKEA Door Spor-203,Sports,IKEA,597.98,4518
+P01414,Philips Company Book-946,Books,Philips,530.92,6
+P01415,Lego Manage Home-943,Home & Kitchen,Lego,1387.46,2335
+P01416,Samsung Although Book-461,Books,Samsung,1450.65,1708
+P01417,Samsung Hold Toys-573,Toys,Samsung,242.66,4591
+P01418,Reebok Item Beau-692,Beauty,Reebok,867.01,4751
+P01419,Reebok Both Home-846,Home & Kitchen,Reebok,1240.39,4579
+P01420,Philips Especially Toys-497,Toys,Philips,760.62,4328
+P01421,Nike Leader Elec-131,Electronics,Nike,602.87,2789
+P01422,Apple Hear Home-452,Home & Kitchen,Apple,431.21,2552
+P01423,Samsung Data Spor-421,Sports,Samsung,266.14,1731
+P01424,Nike Us Toys-360,Toys,Nike,1302.85,783
+P01425,H&M Enter Toys-906,Toys,H&M,1399.52,1913
+P01426,Samsung Successful Groc-571,Groceries,Samsung,958.78,4068
+P01427,Sony Environment Beau-242,Beauty,Sony,1344.65,369
+P01428,Samsung Cost Book-287,Books,Samsung,976.49,2406
+P01429,Philips And Elec-553,Electronics,Philips,857.33,1857
+P01430,Nestle Ask Groc-851,Groceries,Nestle,843.61,682
+P01431,Philips Film Elec-368,Electronics,Philips,764.18,4798
+P01432,Penguin City Clot-890,Clothing,Penguin,898.36,2939
+P01433,IKEA Begin Beau-944,Beauty,IKEA,447.38,3662
+P01434,Dyson Reveal Beau-145,Beauty,Dyson,465.92,2517
+P01435,Nike Mrs Groc-366,Groceries,Nike,14.48,4196
+P01436,Nestle Lawyer Groc-934,Groceries,Nestle,866.68,2861
+P01437,Penguin Level Clot-814,Clothing,Penguin,1412.08,4996
+P01438,IKEA Enough Home-705,Home & Kitchen,IKEA,176.37,1634
+P01439,Dyson Lose Groc-886,Groceries,Dyson,875.56,516
+P01440,Apple Senior Toys-636,Toys,Apple,426.51,112
+P01441,Sony Black Beau-589,Beauty,Sony,1270.93,1930
+P01442,Samsung Tree Spor-899,Sports,Samsung,936.51,4766
+P01443,Nestle Home Beau-893,Beauty,Nestle,963.47,819
+P01444,Nike Certain Beau-421,Beauty,Nike,983.42,4722
+P01445,Reebok Apply Home-613,Home & Kitchen,Reebok,456.45,3827
+P01446,Nestle Enjoy Toys-941,Toys,Nestle,1263.38,2278
+P01447,Lego Gas Clot-444,Clothing,Lego,366.8,3642
+P01448,Philips Beautiful Beau-517,Beauty,Philips,1103.79,3610
+P01449,H&M Program Book-529,Books,H&M,312.92,3631
+P01450,Lego Paper Clot-403,Clothing,Lego,358.64,557
+P01451,Nike Best Clot-514,Clothing,Nike,1208.64,3023
+P01452,Philips Owner Book-241,Books,Philips,469.5,4048
+P01453,Lego News Clot-634,Clothing,Lego,743.41,4019
+P01454,Penguin Hand Home-516,Home & Kitchen,Penguin,958.95,2235
+P01455,IKEA Religious Spor-432,Sports,IKEA,136.26,1004
+P01456,Samsung Yet Clot-269,Clothing,Samsung,988.74,4560
+P01457,Sony Really Spor-220,Sports,Sony,1178.49,4682
+P01458,L'Oreal Age Clot-178,Clothing,L'Oreal,84.56,735
+P01459,Samsung Summer Home-925,Home & Kitchen,Samsung,127.08,3713
+P01460,Nestle Grow Beau-364,Beauty,Nestle,1051.89,763
+P01461,Dyson Issue Book-586,Books,Dyson,855.14,790
+P01462,Philips House Beau-232,Beauty,Philips,287.27,4101
+P01463,IKEA Product Elec-856,Electronics,IKEA,106.26,2109
+P01464,Reebok Blood Book-810,Books,Reebok,810.83,2151
+P01465,Sony Eat Groc-108,Groceries,Sony,765.83,205
+P01466,Samsung Door Groc-698,Groceries,Samsung,274.75,4238
+P01467,Nestle Free Book-375,Books,Nestle,1099.71,3356
+P01468,IKEA Until Beau-437,Beauty,IKEA,415.38,2536
+P01469,Samsung Together Groc-276,Groceries,Samsung,582.32,885
+P01470,H&M Officer Book-911,Books,H&M,994.1,3264
+P01471,Lego Front Toys-721,Toys,Lego,940.64,12
+P01472,Reebok Appear Groc-815,Groceries,Reebok,265.5,3761
+P01473,IKEA Of Home-902,Home & Kitchen,IKEA,1132.05,1929
+P01474,Sony Begin Clot-635,Clothing,Sony,973.68,208
+P01475,Sony Process Toys-346,Toys,Sony,316.08,2478
+P01476,Penguin Everyone Beau-336,Beauty,Penguin,875.33,2948
+P01477,Apple Cup Elec-276,Electronics,Apple,856.51,166
+P01478,Apple While Spor-836,Sports,Apple,1495.97,3189
+P01479,IKEA Cultural Elec-670,Electronics,IKEA,458.21,15
+P01480,Nestle There Home-629,Home & Kitchen,Nestle,304.24,1080
+P01481,Apple Cultural Toys-834,Toys,Apple,1362.74,2425
+P01482,Dyson Security Clot-996,Clothing,Dyson,1019.38,2402
+P01483,Zara Order Groc-156,Groceries,Zara,399.63,3733
+P01484,Nike Month Book-454,Books,Nike,355.47,4018
+P01485,Lego Trip Home-753,Home & Kitchen,Lego,31.74,3533
+P01486,Philips Woman Elec-652,Electronics,Philips,1156.55,1058
+P01487,Dyson Maybe Spor-629,Sports,Dyson,224.09,133
+P01488,Dyson Way Elec-751,Electronics,Dyson,262.56,3871
+P01489,Lego Land Elec-753,Electronics,Lego,725.16,4524
+P01490,Dyson Item Home-374,Home & Kitchen,Dyson,635.78,2568
+P01491,Samsung See Spor-724,Sports,Samsung,225.42,1482
+P01492,Nike Democratic Home-230,Home & Kitchen,Nike,773.45,847
+P01493,Zara Cultural Toys-121,Toys,Zara,311.16,2623
+P01494,Reebok Too Spor-278,Sports,Reebok,1076.75,1224
+P01495,IKEA Might Spor-606,Sports,IKEA,219.73,2498
+P01496,IKEA Remain Beau-374,Beauty,IKEA,111.74,3210
+P01497,Apple Perhaps Elec-319,Electronics,Apple,836.5,667
+P01498,Reebok Role Beau-656,Beauty,Reebok,878.23,4873
+P01499,Apple Sense Beau-785,Beauty,Apple,254.28,1344
+P01500,Dyson Anyone Spor-296,Sports,Dyson,194.71,4113
+P01501,Lego State Beau-872,Beauty,Lego,1287.39,3237
+P01502,Zara Family Clot-697,Clothing,Zara,852.76,664
+P01503,Apple Career Elec-824,Electronics,Apple,145.23,4169
+P01504,Adidas Despite Toys-250,Toys,Adidas,1405.34,908
+P01505,Dyson Democratic Spor-332,Sports,Dyson,671.9,2605
+P01506,Nike Official Home-897,Home & Kitchen,Nike,393.64,2926
+P01507,L'Oreal Big Beau-557,Beauty,L'Oreal,201.17,3916
+P01508,Sony Ability Elec-152,Electronics,Sony,1310.56,4226
+P01509,Reebok Interest Groc-369,Groceries,Reebok,1159.54,1354
+P01510,Dyson Amount Home-451,Home & Kitchen,Dyson,921.9,3706
+P01511,Samsung Wife Spor-323,Sports,Samsung,739.96,4219
+P01512,Dyson Six Book-153,Books,Dyson,789.35,3587
+P01513,H&M Such Beau-327,Beauty,H&M,221.85,412
+P01514,Lego Mouth Elec-774,Electronics,Lego,11.61,4511
+P01515,Samsung Power Spor-754,Sports,Samsung,1426.6,3993
+P01516,Lego Bank Spor-864,Sports,Lego,997.96,3956
+P01517,Apple Since Book-464,Books,Apple,874.42,3618
+P01518,Nike Than Groc-844,Groceries,Nike,1101.72,2598
+P01519,H&M Military Groc-339,Groceries,H&M,343.29,2722
+P01520,Apple Animal Spor-316,Sports,Apple,750.72,4831
+P01521,IKEA American Elec-352,Electronics,IKEA,803.57,4850
+P01522,Reebok Himself Beau-791,Beauty,Reebok,88.74,3578
+P01523,Dyson City Beau-951,Beauty,Dyson,690.44,858
+P01524,Nestle Card Home-856,Home & Kitchen,Nestle,1329.79,981
+P01525,Sony Player Home-792,Home & Kitchen,Sony,1352.71,3779
+P01526,IKEA Beat Toys-386,Toys,IKEA,813.73,4705
+P01527,IKEA Newspaper Book-263,Books,IKEA,396.95,1088
+P01528,Penguin Example Groc-536,Groceries,Penguin,178.17,3685
+P01529,Philips Happy Spor-557,Sports,Philips,231.08,646
+P01530,H&M Machine Groc-844,Groceries,H&M,1041.5,186
+P01531,Nike We Clot-556,Clothing,Nike,485.15,2704
+P01532,Sony This Book-500,Books,Sony,684.73,2410
+P01533,Adidas Real Groc-477,Groceries,Adidas,172.25,3429
+P01534,Sony Start Groc-410,Groceries,Sony,1300.41,2133
+P01535,Reebok These Elec-826,Electronics,Reebok,738.97,1019
+P01536,Nestle Why Toys-742,Toys,Nestle,740.03,4220
+P01537,Adidas Find Elec-118,Electronics,Adidas,1216.08,2345
+P01538,Adidas Partner Home-790,Home & Kitchen,Adidas,1016.18,15
+P01539,Apple Theory Elec-319,Electronics,Apple,340.4,988
+P01540,Reebok Speak Groc-223,Groceries,Reebok,1170.19,2563
+P01541,Reebok Investment Elec-300,Electronics,Reebok,927.45,1590
+P01542,Reebok High Elec-960,Electronics,Reebok,348.55,80
+P01543,Reebok Prepare Spor-478,Sports,Reebok,407.85,863
+P01544,Nestle Piece Spor-853,Sports,Nestle,333.96,1237
+P01545,Reebok Against Book-811,Books,Reebok,48.1,2216
+P01546,Reebok Goal Clot-731,Clothing,Reebok,813.96,2989
+P01547,Adidas Throw Groc-241,Groceries,Adidas,1042.82,4778
+P01548,H&M Cause Home-953,Home & Kitchen,H&M,724.05,319
+P01549,Philips Material Home-634,Home & Kitchen,Philips,356.74,4710
+P01550,Adidas After Toys-995,Toys,Adidas,869.03,319
+P01551,IKEA Score Toys-131,Toys,IKEA,418.26,3513
+P01552,Apple Couple Groc-524,Groceries,Apple,1366.41,330
+P01553,Apple Have Spor-165,Sports,Apple,1278.13,4741
+P01554,Philips Practice Clot-685,Clothing,Philips,1133.06,4467
+P01555,Nestle Pressure Toys-140,Toys,Nestle,704.19,3111
+P01556,H&M Laugh Toys-994,Toys,H&M,1229.8,2232
+P01557,Zara Beyond Beau-165,Beauty,Zara,184.39,2875
+P01558,Samsung Budget Clot-208,Clothing,Samsung,517.85,1363
+P01559,Reebok Suffer Groc-279,Groceries,Reebok,487.77,3763
+P01560,Samsung Figure Spor-854,Sports,Samsung,158.19,4129
+P01561,Apple Dinner Elec-606,Electronics,Apple,207.67,4121
+P01562,IKEA Free Beau-974,Beauty,IKEA,340.25,1074
+P01563,Dyson Well Home-849,Home & Kitchen,Dyson,715.7,1472
+P01564,Sony Most Groc-951,Groceries,Sony,561.63,939
+P01565,H&M Term Book-272,Books,H&M,733.28,1205
+P01566,Nike Daughter Spor-986,Sports,Nike,185.23,2182
+P01567,L'Oreal Another Spor-169,Sports,L'Oreal,1093.7,3143
+P01568,Apple Forget Spor-262,Sports,Apple,629.82,3597
+P01569,Reebok Year Book-696,Books,Reebok,661.55,3810
+P01570,Nestle Trip Groc-212,Groceries,Nestle,981.96,4169
+P01571,Lego According Beau-127,Beauty,Lego,532.03,2467
+P01572,Philips Product Toys-848,Toys,Philips,500.38,3607
+P01573,Philips Member Beau-877,Beauty,Philips,1128.98,3121
+P01574,L'Oreal Measure Spor-807,Sports,L'Oreal,971.86,3577
+P01575,Nike Sign Groc-537,Groceries,Nike,1044.07,3281
+P01576,Zara Watch Home-228,Home & Kitchen,Zara,849.53,4075
+P01577,Reebok Site Groc-297,Groceries,Reebok,587.43,159
+P01578,Adidas Serve Book-874,Books,Adidas,1241.31,16
+P01579,Nike Hit Clot-900,Clothing,Nike,24.2,261
+P01580,H&M Candidate Groc-819,Groceries,H&M,708.97,1937
+P01581,H&M Do Clot-630,Clothing,H&M,1248.48,1281
+P01582,Adidas Amount Toys-588,Toys,Adidas,960.85,579
+P01583,Dyson Later Groc-862,Groceries,Dyson,76.25,1502
+P01584,Penguin Ball Home-157,Home & Kitchen,Penguin,1101.02,724
+P01585,Adidas Activity Spor-739,Sports,Adidas,1012.7,1318
+P01586,H&M Physical Groc-364,Groceries,H&M,974.44,3024
+P01587,Dyson Society Beau-810,Beauty,Dyson,528.26,2323
+P01588,Philips Claim Beau-593,Beauty,Philips,1421.05,3634
+P01589,Sony Watch Groc-714,Groceries,Sony,1255.42,2377
+P01590,Reebok Visit Beau-548,Beauty,Reebok,1225.58,3765
+P01591,Nestle Challenge Clot-419,Clothing,Nestle,40.46,3210
+P01592,Nestle Boy Toys-682,Toys,Nestle,1157.2,2136
+P01593,H&M Interest Home-105,Home & Kitchen,H&M,1023.14,3079
+P01594,Adidas Often Clot-583,Clothing,Adidas,646.45,4357
+P01595,Adidas People Home-563,Home & Kitchen,Adidas,566.86,4594
+P01596,Penguin Lose Home-837,Home & Kitchen,Penguin,909.57,1673
+P01597,Apple Field Elec-604,Electronics,Apple,779.09,4044
+P01598,Zara Group Elec-171,Electronics,Zara,269.29,628
+P01599,Nike Suggest Home-265,Home & Kitchen,Nike,1347.92,1779
+P01600,Reebok Would Book-831,Books,Reebok,1182.75,914
+P01601,Lego Deep Book-589,Books,Lego,117.06,1417
+P01602,IKEA Test Toys-274,Toys,IKEA,1065.52,836
+P01603,Adidas Machine Spor-424,Sports,Adidas,631.83,4157
+P01604,L'Oreal Break Beau-335,Beauty,L'Oreal,733.47,1501
+P01605,Philips Fear Home-612,Home & Kitchen,Philips,384.93,813
+P01606,Penguin Likely Home-813,Home & Kitchen,Penguin,203.3,353
+P01607,Adidas Edge Beau-290,Beauty,Adidas,74.61,569
+P01608,Apple They Home-880,Home & Kitchen,Apple,976.34,1257
+P01609,Nestle Clear Beau-732,Beauty,Nestle,599.01,3431
+P01610,Philips Animal Toys-917,Toys,Philips,993.16,4203
+P01611,Samsung Federal Spor-297,Sports,Samsung,1457.42,4015
+P01612,Zara Else Home-863,Home & Kitchen,Zara,403.39,4992
+P01613,Philips Beautiful Spor-586,Sports,Philips,528.71,1745
+P01614,Lego Poor Groc-798,Groceries,Lego,804.87,2112
+P01615,L'Oreal Card Clot-854,Clothing,L'Oreal,981.23,4878
+P01616,Nestle Life Toys-676,Toys,Nestle,923.97,816
+P01617,H&M Father Beau-434,Beauty,H&M,107.08,1256
+P01618,Apple Energy Elec-839,Electronics,Apple,1471.41,3494
+P01619,Adidas Such Book-908,Books,Adidas,771.68,746
+P01620,Samsung Begin Beau-482,Beauty,Samsung,1404.5,4420
+P01621,Reebok Country Beau-799,Beauty,Reebok,523.73,4767
+P01622,Sony Job Spor-358,Sports,Sony,86.48,812
+P01623,H&M Large Elec-572,Electronics,H&M,548.54,1430
+P01624,Sony Its Groc-933,Groceries,Sony,1462.03,3881
+P01625,IKEA Have Home-984,Home & Kitchen,IKEA,1448.34,2782
+P01626,Reebok Information Groc-846,Groceries,Reebok,989.46,2628
+P01627,IKEA Total Elec-278,Electronics,IKEA,507.8,2035
+P01628,Dyson Animal Clot-260,Clothing,Dyson,1329.77,1512
+P01629,IKEA Continue Groc-481,Groceries,IKEA,407.26,2338
+P01630,Philips Do Book-422,Books,Philips,939.66,2025
+P01631,Nestle Defense Elec-690,Electronics,Nestle,479.2,1085
+P01632,L'Oreal Interest Book-900,Books,L'Oreal,644.77,3607
+P01633,Adidas Before Home-733,Home & Kitchen,Adidas,565.86,3972
+P01634,Zara West Spor-111,Sports,Zara,1439.9,2616
+P01635,Lego Job Clot-306,Clothing,Lego,817.48,3282
+P01636,IKEA Heart Toys-514,Toys,IKEA,1133.38,2448
+P01637,Zara Group Elec-811,Electronics,Zara,869.62,315
+P01638,Adidas Mrs Groc-577,Groceries,Adidas,1081.77,1391
+P01639,Nestle Age Clot-499,Clothing,Nestle,414.95,123
+P01640,Lego Kid Spor-170,Sports,Lego,432.13,2915
+P01641,L'Oreal Source Beau-125,Beauty,L'Oreal,1019.84,1493
+P01642,Philips Child Clot-726,Clothing,Philips,546.28,2726
+P01643,Dyson Enough Elec-948,Electronics,Dyson,490.71,4281
+P01644,Apple Long Beau-407,Beauty,Apple,111.05,2222
+P01645,Reebok Gas Home-229,Home & Kitchen,Reebok,808.92,2687
+P01646,Samsung Glass Toys-826,Toys,Samsung,204.97,4860
+P01647,Penguin Ground Spor-165,Sports,Penguin,127.59,3994
+P01648,Philips Citizen Beau-623,Beauty,Philips,953.93,1551
+P01649,Zara Know Toys-348,Toys,Zara,1388.78,378
+P01650,Apple Loss Book-359,Books,Apple,590.53,272
+P01651,Samsung Yard Groc-776,Groceries,Samsung,1418.73,2153
+P01652,Penguin Chair Spor-786,Sports,Penguin,1048.51,3988
+P01653,Zara Wall Book-296,Books,Zara,125.17,1314
+P01654,Philips Arm Toys-990,Toys,Philips,102.81,273
+P01655,Penguin Represent Beau-506,Beauty,Penguin,305.46,625
+P01656,Nestle Effort Beau-798,Beauty,Nestle,889.53,3252
+P01657,Reebok Interview Clot-283,Clothing,Reebok,635.63,410
+P01658,Penguin Professional Groc-443,Groceries,Penguin,760.91,2621
+P01659,Philips Wait Spor-584,Sports,Philips,887.71,3906
+P01660,Lego Material Clot-828,Clothing,Lego,631.77,353
+P01661,Penguin Small Toys-179,Toys,Penguin,161.8,4498
+P01662,L'Oreal Art Groc-759,Groceries,L'Oreal,457.59,3889
+P01663,Reebok Charge Spor-285,Sports,Reebok,129.82,3707
+P01664,L'Oreal Look Book-425,Books,L'Oreal,694.75,3907
+P01665,Samsung Shake Groc-506,Groceries,Samsung,64.28,2800
+P01666,Apple Former Book-838,Books,Apple,763.73,1563
+P01667,Apple Budget Beau-910,Beauty,Apple,563.0,3393
+P01668,Reebok Account Beau-836,Beauty,Reebok,351.29,1365
+P01669,Sony Account Groc-473,Groceries,Sony,465.72,581
+P01670,Lego Visit Book-472,Books,Lego,229.74,3718
+P01671,Philips Heart Elec-186,Electronics,Philips,1395.93,2820
+P01672,IKEA Well Toys-499,Toys,IKEA,604.41,4624
+P01673,Apple Smile Clot-158,Clothing,Apple,1234.21,1030
+P01674,Reebok Through Groc-701,Groceries,Reebok,228.45,369
+P01675,L'Oreal Thousand Book-507,Books,L'Oreal,361.04,835
+P01676,Sony Whose Toys-879,Toys,Sony,1156.42,3351
+P01677,Lego Reveal Elec-802,Electronics,Lego,605.73,2531
+P01678,H&M Wind Spor-264,Sports,H&M,361.93,2742
+P01679,Sony Leave Book-940,Books,Sony,810.39,4220
+P01680,Sony Oil Spor-921,Sports,Sony,341.18,728
+P01681,Zara Method Beau-354,Beauty,Zara,978.03,2929
+P01682,Apple Analysis Beau-432,Beauty,Apple,1396.91,1348
+P01683,Sony Last Home-108,Home & Kitchen,Sony,1411.52,3226
+P01684,Lego Particular Toys-429,Toys,Lego,315.41,4095
+P01685,Philips Able Groc-814,Groceries,Philips,1154.45,286
+P01686,Samsung From Elec-255,Electronics,Samsung,1267.14,675
+P01687,Samsung Maintain Elec-120,Electronics,Samsung,311.8,1374
+P01688,Lego Bag Toys-519,Toys,Lego,1274.37,3821
+P01689,Apple Spring Elec-834,Electronics,Apple,769.59,3326
+P01690,L'Oreal Avoid Beau-810,Beauty,L'Oreal,939.28,4754
+P01691,Lego Could Clot-247,Clothing,Lego,1430.31,3983
+P01692,Penguin Because Toys-103,Toys,Penguin,225.83,4988
+P01693,Philips Save Beau-882,Beauty,Philips,246.89,511
+P01694,IKEA Necessary Clot-236,Clothing,IKEA,1220.4,4701
+P01695,Penguin Benefit Clot-306,Clothing,Penguin,555.79,3739
+P01696,Zara Time Book-260,Books,Zara,1464.42,598
+P01697,H&M Identify Groc-504,Groceries,H&M,1119.23,952
+P01698,IKEA Long Toys-395,Toys,IKEA,208.75,1555
+P01699,Apple True Spor-125,Sports,Apple,168.55,396
+P01700,Philips Rise Groc-798,Groceries,Philips,71.42,3592
+P01701,Reebok Place Groc-400,Groceries,Reebok,466.21,161
+P01702,L'Oreal Degree Spor-672,Sports,L'Oreal,1365.69,2173
+P01703,Nestle Take Clot-861,Clothing,Nestle,488.53,3733
+P01704,Nike Couple Spor-235,Sports,Nike,1440.85,1823
+P01705,H&M Effect Clot-426,Clothing,H&M,1281.37,1853
+P01706,Zara His Beau-610,Beauty,Zara,569.08,844
+P01707,L'Oreal Successful Groc-173,Groceries,L'Oreal,959.43,1812
+P01708,Penguin Stuff Groc-207,Groceries,Penguin,450.75,3111
+P01709,Apple Cup Beau-850,Beauty,Apple,1106.41,3149
+P01710,Philips Paper Home-294,Home & Kitchen,Philips,916.25,3718
+P01711,Dyson Suggest Spor-233,Sports,Dyson,670.64,3220
+P01712,IKEA Drug Elec-931,Electronics,IKEA,790.99,3384
+P01713,Philips Soon Spor-468,Sports,Philips,552.72,2914
+P01714,Nike Safe Elec-244,Electronics,Nike,104.23,4917
+P01715,L'Oreal Wide Clot-792,Clothing,L'Oreal,890.16,4830
+P01716,IKEA During Book-429,Books,IKEA,291.01,2759
+P01717,Adidas Adult Book-107,Books,Adidas,130.54,4688
+P01718,Penguin Professional Toys-378,Toys,Penguin,856.06,3997
+P01719,Penguin Treatment Elec-910,Electronics,Penguin,1444.82,2375
+P01720,Penguin Hospital Beau-794,Beauty,Penguin,995.48,4649
+P01721,L'Oreal Explain Clot-420,Clothing,L'Oreal,225.97,576
+P01722,IKEA Next Elec-138,Electronics,IKEA,961.63,1677
+P01723,Samsung Father Groc-746,Groceries,Samsung,680.79,2022
+P01724,Samsung Similar Toys-968,Toys,Samsung,435.6,1076
+P01725,IKEA Pass Clot-201,Clothing,IKEA,1207.7,50
+P01726,L'Oreal School Elec-517,Electronics,L'Oreal,814.28,4986
+P01727,Penguin Front Groc-247,Groceries,Penguin,125.88,495
+P01728,Apple Beat Beau-541,Beauty,Apple,474.0,1436
+P01729,Dyson Truth Book-439,Books,Dyson,1062.86,4237
+P01730,H&M Truth Toys-245,Toys,H&M,278.3,451
+P01731,Reebok Kid Book-372,Books,Reebok,428.39,775
+P01732,Nike Give Groc-118,Groceries,Nike,524.04,3135
+P01733,Adidas Material Groc-714,Groceries,Adidas,1099.51,1773
+P01734,Reebok Television Toys-687,Toys,Reebok,1253.98,3814
+P01735,H&M Arrive Elec-489,Electronics,H&M,380.51,4229
+P01736,IKEA War Groc-832,Groceries,IKEA,364.29,4296
+P01737,Apple Letter Spor-747,Sports,Apple,1358.53,2734
+P01738,Nestle Party Clot-997,Clothing,Nestle,549.69,1136
+P01739,L'Oreal Fine Elec-575,Electronics,L'Oreal,727.26,326
+P01740,Apple Cup Beau-300,Beauty,Apple,1048.02,3659
+P01741,IKEA Check Toys-573,Toys,IKEA,1313.56,1393
+P01742,Penguin Traditional Book-318,Books,Penguin,821.51,3768
+P01743,Adidas Box Beau-671,Beauty,Adidas,355.16,3233
+P01744,H&M Seat Home-230,Home & Kitchen,H&M,509.25,3486
+P01745,L'Oreal News Spor-642,Sports,L'Oreal,320.3,1930
+P01746,Philips Dream Home-337,Home & Kitchen,Philips,1285.97,584
+P01747,Philips Almost Beau-520,Beauty,Philips,388.62,3954
+P01748,Philips Choose Book-897,Books,Philips,1423.83,2039
+P01749,Reebok Experience Elec-716,Electronics,Reebok,1466.88,2417
+P01750,Apple Control Clot-422,Clothing,Apple,1044.21,505
+P01751,Zara Individual Spor-606,Sports,Zara,162.15,357
+P01752,Sony Result Clot-120,Clothing,Sony,417.98,2215
+P01753,Adidas Evidence Spor-136,Sports,Adidas,548.52,354
+P01754,H&M Itself Elec-694,Electronics,H&M,883.24,1977
+P01755,Samsung So Beau-779,Beauty,Samsung,871.94,3349
+P01756,Samsung Newspaper Elec-846,Electronics,Samsung,795.88,3938
+P01757,Apple Step Toys-398,Toys,Apple,1002.08,3213
+P01758,Penguin Good Book-633,Books,Penguin,1007.63,1273
+P01759,Penguin Production Home-289,Home & Kitchen,Penguin,1275.03,3603
+P01760,Apple Woman Toys-460,Toys,Apple,703.99,3000
+P01761,H&M Return Toys-886,Toys,H&M,1329.71,2553
+P01762,Zara Give Home-279,Home & Kitchen,Zara,743.91,2795
+P01763,Nike Single Elec-717,Electronics,Nike,319.22,2945
+P01764,Sony Bring Home-517,Home & Kitchen,Sony,1237.96,2557
+P01765,IKEA Painting Beau-978,Beauty,IKEA,284.59,1417
+P01766,Lego Ago Clot-494,Clothing,Lego,91.73,2910
+P01767,Adidas Character Home-621,Home & Kitchen,Adidas,1189.07,2249
+P01768,Nike Set Groc-805,Groceries,Nike,435.17,178
+P01769,Dyson Already Spor-425,Sports,Dyson,687.52,4085
+P01770,Zara Fly Groc-325,Groceries,Zara,184.7,2076
+P01771,L'Oreal Authority Elec-703,Electronics,L'Oreal,371.84,3139
+P01772,Lego Total Spor-250,Sports,Lego,1132.83,556
+P01773,Penguin Stage Groc-754,Groceries,Penguin,530.05,1786
+P01774,Adidas Read Groc-746,Groceries,Adidas,449.83,3957
+P01775,Dyson Western Groc-542,Groceries,Dyson,330.44,3558
+P01776,Apple Attention Book-464,Books,Apple,766.36,3719
+P01777,Penguin Future Toys-407,Toys,Penguin,1386.05,3181
+P01778,Penguin See Clot-792,Clothing,Penguin,956.97,4540
+P01779,Adidas Focus Groc-750,Groceries,Adidas,47.65,2005
+P01780,Reebok Off Groc-622,Groceries,Reebok,1390.59,4321
+P01781,Philips Mother Clot-374,Clothing,Philips,1005.65,2555
+P01782,Zara Alone Home-636,Home & Kitchen,Zara,1282.06,1633
+P01783,Apple Start Toys-578,Toys,Apple,617.64,172
+P01784,Penguin Four Groc-124,Groceries,Penguin,478.67,643
+P01785,Philips Billion Clot-833,Clothing,Philips,523.97,2892
+P01786,Reebok Apply Book-199,Books,Reebok,69.83,2449
+P01787,Apple Policy Clot-633,Clothing,Apple,605.11,4962
+P01788,Philips Do Toys-206,Toys,Philips,134.15,4544
+P01789,Nike Customer Elec-599,Electronics,Nike,112.49,4118
+P01790,H&M Feel Groc-229,Groceries,H&M,891.06,64
+P01791,Sony Include Clot-290,Clothing,Sony,1323.89,4153
+P01792,Dyson Stage Spor-219,Sports,Dyson,537.39,3325
+P01793,Dyson His Home-994,Home & Kitchen,Dyson,394.91,493
+P01794,Samsung Several Toys-483,Toys,Samsung,960.3,566
+P01795,Lego End Clot-739,Clothing,Lego,1153.52,3944
+P01796,Zara Door Toys-110,Toys,Zara,518.22,2021
+P01797,Reebok Keep Book-255,Books,Reebok,1282.27,4519
+P01798,Sony Degree Home-894,Home & Kitchen,Sony,105.45,2436
+P01799,Nike South Groc-695,Groceries,Nike,1102.71,1073
+P01800,IKEA Economy Spor-608,Sports,IKEA,1060.87,263
+P01801,Reebok According Groc-352,Groceries,Reebok,193.37,3700
+P01802,Zara Four Book-951,Books,Zara,214.43,1482
+P01803,Reebok Meet Spor-136,Sports,Reebok,1211.32,1661
+P01804,Apple Section Beau-727,Beauty,Apple,847.71,503
+P01805,Lego Sport Book-829,Books,Lego,380.64,1674
+P01806,Nestle Home Clot-240,Clothing,Nestle,1163.82,644
+P01807,Dyson Scene Elec-769,Electronics,Dyson,423.35,3236
+P01808,Reebok Five Spor-932,Sports,Reebok,104.67,582
+P01809,Reebok Daughter Toys-847,Toys,Reebok,685.05,132
+P01810,Zara Make Clot-650,Clothing,Zara,744.92,1714
+P01811,Samsung School Book-798,Books,Samsung,482.58,2418
+P01812,Zara Truth Book-294,Books,Zara,168.32,873
+P01813,Nike Argue Spor-252,Sports,Nike,541.71,3631
+P01814,Philips Able Elec-691,Electronics,Philips,872.34,1581
+P01815,H&M Participant Beau-205,Beauty,H&M,357.75,175
+P01816,L'Oreal Ten Book-809,Books,L'Oreal,14.41,3373
+P01817,Reebok Now Beau-594,Beauty,Reebok,168.8,4559
+P01818,Sony We Toys-233,Toys,Sony,946.75,2211
+P01819,Lego Father Spor-661,Sports,Lego,1036.47,1552
+P01820,L'Oreal Call Clot-998,Clothing,L'Oreal,502.88,1916
+P01821,Apple Into Beau-765,Beauty,Apple,17.45,3838
+P01822,Reebok Spend Home-123,Home & Kitchen,Reebok,1228.58,3609
+P01823,Sony Everyone Beau-455,Beauty,Sony,1001.31,4243
+P01824,Penguin Early Beau-648,Beauty,Penguin,455.46,1448
+P01825,IKEA Little Home-554,Home & Kitchen,IKEA,1081.05,3103
+P01826,IKEA Woman Elec-198,Electronics,IKEA,833.23,445
+P01827,Reebok List Toys-544,Toys,Reebok,1311.96,1036
+P01828,IKEA Alone Book-559,Books,IKEA,887.98,2324
+P01829,Philips Push Beau-377,Beauty,Philips,529.56,1006
+P01830,Lego Radio Elec-550,Electronics,Lego,735.73,1177
+P01831,Sony Choice Clot-954,Clothing,Sony,16.6,4560
+P01832,Samsung Big Spor-525,Sports,Samsung,316.84,2266
+P01833,Adidas Stop Beau-954,Beauty,Adidas,1090.7,842
+P01834,Dyson Maintain Elec-786,Electronics,Dyson,780.64,1368
+P01835,Nestle Action Book-996,Books,Nestle,1091.76,2833
+P01836,IKEA Them Beau-930,Beauty,IKEA,347.45,1952
+P01837,Adidas Skin Book-804,Books,Adidas,390.84,3737
+P01838,L'Oreal Expect Home-634,Home & Kitchen,L'Oreal,631.99,4175
+P01839,IKEA Let Spor-265,Sports,IKEA,1347.24,1811
+P01840,Samsung Ask Book-288,Books,Samsung,1435.88,1490
+P01841,Philips Bring Groc-556,Groceries,Philips,396.02,3240
+P01842,Adidas Tell Elec-335,Electronics,Adidas,779.13,4031
+P01843,Adidas Create Clot-588,Clothing,Adidas,1330.85,2781
+P01844,Philips Growth Groc-803,Groceries,Philips,1069.79,2744
+P01845,IKEA Score Home-286,Home & Kitchen,IKEA,1183.94,1312
+P01846,Samsung Scene Elec-851,Electronics,Samsung,461.55,1231
+P01847,Dyson Tv Spor-387,Sports,Dyson,203.62,386
+P01848,Adidas Prevent Spor-794,Sports,Adidas,1242.16,3920
+P01849,Apple Condition Spor-408,Sports,Apple,562.53,1721
+P01850,H&M Old Book-133,Books,H&M,1191.77,1026
+P01851,Penguin Way Clot-779,Clothing,Penguin,1092.71,1965
+P01852,Lego Response Spor-486,Sports,Lego,626.17,2292
+P01853,Lego They Spor-992,Sports,Lego,511.54,3074
+P01854,Zara Support Beau-172,Beauty,Zara,910.59,3929
+P01855,H&M Door Book-810,Books,H&M,175.74,1801
+P01856,L'Oreal Travel Beau-920,Beauty,L'Oreal,476.21,2627
+P01857,Sony Difference Spor-265,Sports,Sony,896.72,4079
+P01858,Adidas Wife Groc-603,Groceries,Adidas,1280.91,4763
+P01859,H&M Which Beau-259,Beauty,H&M,814.72,726
+P01860,Nike Product Toys-507,Toys,Nike,1425.67,3277
+P01861,Adidas Ten Spor-933,Sports,Adidas,452.61,4195
+P01862,Zara Other Elec-183,Electronics,Zara,150.61,2126
+P01863,Lego Size Clot-622,Clothing,Lego,262.48,4961
+P01864,Nestle Many Groc-105,Groceries,Nestle,1135.47,2122
+P01865,Nike Best Clot-790,Clothing,Nike,1398.38,2135
+P01866,H&M List Elec-538,Electronics,H&M,560.0,2214
+P01867,Lego Quality Groc-461,Groceries,Lego,147.96,1486
+P01868,Nestle Though Toys-800,Toys,Nestle,962.56,2240
+P01869,Nestle Throw Elec-465,Electronics,Nestle,1206.08,2854
+P01870,Adidas Notice Clot-625,Clothing,Adidas,376.15,2995
+P01871,IKEA House Toys-941,Toys,IKEA,850.07,1810
+P01872,Dyson Husband Beau-715,Beauty,Dyson,491.17,2709
+P01873,Penguin Newspaper Clot-809,Clothing,Penguin,800.17,1268
+P01874,H&M Boy Spor-153,Sports,H&M,892.91,2452
+P01875,Lego Long Groc-137,Groceries,Lego,516.49,3497
+P01876,Lego Human Groc-857,Groceries,Lego,1229.51,3545
+P01877,IKEA Point Clot-379,Clothing,IKEA,849.01,4490
+P01878,Adidas Light Spor-892,Sports,Adidas,1382.3,2115
+P01879,L'Oreal House Clot-491,Clothing,L'Oreal,731.2,4751
+P01880,Zara Although Toys-849,Toys,Zara,1108.78,1676
+P01881,Penguin Hear Home-788,Home & Kitchen,Penguin,251.68,826
+P01882,Dyson Pm Beau-709,Beauty,Dyson,339.46,3878
+P01883,Reebok Between Spor-446,Sports,Reebok,960.56,1307
+P01884,Apple Minute Elec-330,Electronics,Apple,130.64,657
+P01885,Sony Sister Toys-775,Toys,Sony,774.44,3667
+P01886,Philips Economic Beau-945,Beauty,Philips,399.07,3670
+P01887,H&M Risk Toys-638,Toys,H&M,1375.67,1633
+P01888,Samsung Staff Home-568,Home & Kitchen,Samsung,99.64,709
+P01889,Lego Order Clot-731,Clothing,Lego,383.61,939
+P01890,Lego Edge Home-870,Home & Kitchen,Lego,906.21,672
+P01891,Dyson Allow Groc-158,Groceries,Dyson,1071.68,2808
+P01892,Sony Source Spor-685,Sports,Sony,836.36,3787
+P01893,H&M Science Beau-121,Beauty,H&M,529.35,2227
+P01894,Zara Authority Clot-166,Clothing,Zara,876.52,4798
+P01895,Sony Art Beau-815,Beauty,Sony,904.35,2608
+P01896,H&M Rich Clot-225,Clothing,H&M,1373.12,2364
+P01897,Lego Hand Home-181,Home & Kitchen,Lego,470.69,1162
+P01898,L'Oreal Set Groc-129,Groceries,L'Oreal,448.47,670
+P01899,H&M Him Home-270,Home & Kitchen,H&M,788.15,2695
+P01900,Dyson Wait Spor-571,Sports,Dyson,49.77,944
+P01901,Sony That Elec-341,Electronics,Sony,521.76,2261
+P01902,Philips Perform Spor-189,Sports,Philips,837.05,955
+P01903,Samsung Because Elec-418,Electronics,Samsung,970.73,4770
+P01904,L'Oreal Stage Home-511,Home & Kitchen,L'Oreal,59.56,987
+P01905,Apple Human Home-741,Home & Kitchen,Apple,541.35,4665
+P01906,Philips Policy Groc-282,Groceries,Philips,603.51,1867
+P01907,Dyson Specific Clot-442,Clothing,Dyson,83.61,584
+P01908,Apple Official Elec-545,Electronics,Apple,658.98,432
+P01909,Philips Current Beau-792,Beauty,Philips,1162.17,4736
+P01910,H&M End Book-803,Books,H&M,676.18,151
+P01911,Penguin Series Spor-385,Sports,Penguin,1007.77,3173
+P01912,IKEA Rather Beau-863,Beauty,IKEA,981.42,1300
+P01913,H&M Back Spor-468,Sports,H&M,854.88,4102
+P01914,Reebok Method Beau-645,Beauty,Reebok,756.57,3975
+P01915,Zara Per Toys-778,Toys,Zara,122.64,3429
+P01916,Reebok Development Beau-630,Beauty,Reebok,1042.46,2313
+P01917,IKEA Visit Clot-182,Clothing,IKEA,227.17,2307
+P01918,Samsung How Toys-458,Toys,Samsung,905.36,1673
+P01919,Samsung Field Groc-822,Groceries,Samsung,590.84,3799
+P01920,Adidas Quickly Home-442,Home & Kitchen,Adidas,213.15,2214
+P01921,Lego Money Spor-191,Sports,Lego,170.76,4245
+P01922,Samsung Ahead Groc-824,Groceries,Samsung,483.87,840
+P01923,IKEA Natural Toys-957,Toys,IKEA,932.78,2295
+P01924,Sony Play Groc-482,Groceries,Sony,1374.81,4126
+P01925,Samsung Sell Groc-856,Groceries,Samsung,1202.66,4658
+P01926,L'Oreal Technology Toys-521,Toys,L'Oreal,181.19,3074
+P01927,Apple Even Beau-350,Beauty,Apple,1476.03,4198
+P01928,Lego Several Book-839,Books,Lego,70.98,3560
+P01929,Apple First Toys-446,Toys,Apple,833.07,3388
+P01930,Reebok Animal Groc-550,Groceries,Reebok,792.43,2727
+P01931,Sony Image Spor-240,Sports,Sony,463.82,3690
+P01932,Reebok Hard Book-320,Books,Reebok,921.66,337
+P01933,Dyson Sea Spor-500,Sports,Dyson,1398.56,4674
+P01934,IKEA Series Spor-487,Sports,IKEA,1098.62,2030
+P01935,Nike Suddenly Toys-747,Toys,Nike,559.85,3591
+P01936,IKEA Professional Beau-988,Beauty,IKEA,1457.64,1550
+P01937,Apple Fine Toys-304,Toys,Apple,676.87,4296
+P01938,Dyson Without Elec-323,Electronics,Dyson,680.9,3828
+P01939,Apple True Clot-543,Clothing,Apple,486.3,4460
+P01940,Nestle Hear Elec-391,Electronics,Nestle,1434.25,952
+P01941,Samsung Their Home-357,Home & Kitchen,Samsung,1255.91,2767
+P01942,Penguin Church Beau-486,Beauty,Penguin,479.68,3193
+P01943,Sony Sister Spor-494,Sports,Sony,1125.05,1718
+P01944,Adidas Good Toys-822,Toys,Adidas,830.06,928
+P01945,Philips Own Spor-733,Sports,Philips,218.72,1151
+P01946,Adidas Degree Home-981,Home & Kitchen,Adidas,91.88,2327
+P01947,Nike Word Home-158,Home & Kitchen,Nike,350.2,4869
+P01948,Philips Thought Home-131,Home & Kitchen,Philips,456.84,4400
+P01949,Zara Home Groc-833,Groceries,Zara,1107.06,4082
+P01950,Philips Manage Elec-874,Electronics,Philips,143.3,1898
+P01951,Penguin Against Spor-890,Sports,Penguin,673.79,4660
+P01952,Sony Record Spor-606,Sports,Sony,946.54,2842
+P01953,Nike Modern Elec-283,Electronics,Nike,902.51,4830
+P01954,Zara Together Home-258,Home & Kitchen,Zara,1332.54,556
+P01955,Adidas Yeah Spor-554,Sports,Adidas,26.65,2341
+P01956,Philips Idea Book-585,Books,Philips,1324.08,57
+P01957,Samsung Treatment Book-841,Books,Samsung,1405.66,2430
+P01958,Philips Home Clot-182,Clothing,Philips,1473.03,4947
+P01959,Apple According Home-237,Home & Kitchen,Apple,298.46,3370
+P01960,Sony Part Toys-419,Toys,Sony,936.68,4473
+P01961,Reebok Every Home-543,Home & Kitchen,Reebok,843.63,717
+P01962,Apple Including Spor-114,Sports,Apple,1033.11,1786
+P01963,Apple Couple Spor-302,Sports,Apple,1246.73,3552
+P01964,Sony True Groc-885,Groceries,Sony,1251.37,1627
+P01965,Nike Actually Toys-406,Toys,Nike,1080.52,511
+P01966,Nestle Manager Beau-789,Beauty,Nestle,623.99,4962
+P01967,Philips Note Beau-473,Beauty,Philips,1333.67,3445
+P01968,Philips Up Clot-785,Clothing,Philips,1081.44,4390
+P01969,Apple Raise Clot-213,Clothing,Apple,969.58,95
+P01970,Sony Full Toys-724,Toys,Sony,905.54,1238
+P01971,IKEA Large Home-341,Home & Kitchen,IKEA,99.91,4017
+P01972,Sony Choice Book-792,Books,Sony,786.31,4758
+P01973,Dyson Read Spor-765,Sports,Dyson,225.03,526
+P01974,Dyson Year Elec-672,Electronics,Dyson,900.76,4242
+P01975,Philips Set Clot-107,Clothing,Philips,723.75,1881
+P01976,Sony Court Home-916,Home & Kitchen,Sony,216.79,4077
+P01977,Sony Listen Beau-550,Beauty,Sony,780.64,283
+P01978,Zara Bring Clot-879,Clothing,Zara,466.92,1012
+P01979,Apple Partner Elec-648,Electronics,Apple,309.15,2207
+P01980,IKEA Recently Beau-447,Beauty,IKEA,375.98,2388
+P01981,L'Oreal Tell Home-712,Home & Kitchen,L'Oreal,1138.31,754
+P01982,Apple Collection Groc-439,Groceries,Apple,825.64,3895
+P01983,Samsung Item Groc-259,Groceries,Samsung,326.63,1069
+P01984,Nike Agree Spor-156,Sports,Nike,906.46,3065
+P01985,Philips Soon Groc-170,Groceries,Philips,897.76,767
+P01986,L'Oreal Career Elec-756,Electronics,L'Oreal,363.83,4855
+P01987,Reebok Work Groc-691,Groceries,Reebok,1057.47,1433
+P01988,L'Oreal Then Spor-192,Sports,L'Oreal,47.07,1249
+P01989,IKEA Program Beau-456,Beauty,IKEA,73.86,4971
+P01990,Adidas Really Toys-208,Toys,Adidas,88.69,3084
+P01991,Lego Identify Home-959,Home & Kitchen,Lego,842.72,2306
+P01992,Apple Store Clot-579,Clothing,Apple,1190.94,3834
+P01993,H&M Sister Toys-789,Toys,H&M,1381.89,3399
+P01994,Sony Tell Clot-580,Clothing,Sony,1389.76,4368
+P01995,Sony Attention Groc-291,Groceries,Sony,846.69,3416
+P01996,Sony Campaign Home-989,Home & Kitchen,Sony,34.66,1393
+P01997,Penguin Option Groc-912,Groceries,Penguin,1065.57,721
+P01998,Nike Least Elec-805,Electronics,Nike,1449.02,2528
+P01999,Samsung Music Clot-839,Clothing,Samsung,48.43,1229
+P02000,Philips Traditional Book-706,Books,Philips,955.0,1733
